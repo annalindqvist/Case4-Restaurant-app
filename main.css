@@ -4,6 +4,18 @@
     box-sizing: border-box;
 }
 
+/* 
+Colors:
+
+Darkpink: E94B64
+Lightpink: FFCED6
+Almost black: 333333
+Darkgrey: 757575
+Lightergrey: 9F9F9F
+Almost white: FAFAFA
+
+*/
+
 body {
     font-family: 'Poppins', sans-serif;
 }

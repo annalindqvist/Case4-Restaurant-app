@@ -8,7 +8,7 @@ const form = document.querySelector("form");
 let inputBox = document.getElementById("cuisinesInput");
 let restaurantData;
 
-
+// ha fetch i en onclick/onsubmit/addeventlistner så den inte körs i onödan
 fetch(url).then (function (response){
 
     if (!response.ok) {
