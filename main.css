@@ -18,6 +18,37 @@ Almost white: FAFAFA
 
 body {
     font-family: 'Poppins', sans-serif;
+    background-color: #FAFAFA;
+}
+
+/* ------- Start page ------- */
+
+#startPage main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#startPage h1 {
+    font-size: 40px;
+    margin-bottom: 70px;
+}
+
+#startPage div {
+    border-radius: 50px;
+    background-color: #E94B64;
+    width: 165px;
+    text-align: center;
+}
+
+#startPage div a {
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: bold;
+    color: #FAFAFA;
 }
 
 header {
@@ -25,6 +56,7 @@ header {
     justify-content: center;
     margin: 40px;
 }
+
 h1 {
     font-style: normal;
     font-weight: bold;
@@ -33,16 +65,60 @@ h1 {
     letter-spacing: -0.5px;
     color: #E94B64;
 }
+
 main {
     margin: 15px;
 }
+
+div select {
+    margin-bottom: 10px;
+}
+
 form {
     display: flex;
     flex-direction: column;
 }
 
+form label{
+    color: #333333;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+form input {
+    border: none;
+    background: #FAFAFA;
+    box-shadow: inset 0px 4px 4px 3px rgba(255, 206, 214, 0.2);
+    border-radius: 50px;
+    width: 90vw;
+    height: 35px;
+    padding: 10px 20px 10px 20px;
+}
+
+form input::placeholder {
+    font-size: 12px;
+    color: #9F9F9F;
+    font-weight: lighter;
+
+}
+
+form #submitBtn {
+    border: none;
+    background: #E94B64;
+    box-shadow: 0px 5px 15px rgba(233, 75, 100, 0.35);
+    border-radius: 15px;
+    width: 90vw;
+    height: 40px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #FAFAFA;
+    position: fixed;
+    bottom: 20px;
+}
+
 #result {
     margin-top: 20px;
+    margin-bottom: 100px;
 }
 
 #result div {
@@ -52,10 +128,42 @@ form {
     margin-top: 10px;
     border: 1px solid black;
 }
+
+
 div h4 {
     font-size: 12px;
 }
+
 div p {
     font-size: 11px;
     font-weight: normal;
 }
+
+#filterOptions h3 {
+    margin-top: 30px;
+    color: #333333;
+    font-size: 16px;
+    margin-bottom: 10px;
+    font-weight: normal;
+}
+
+#priceRange {
+    margin: 20px 0px;
+}
+
+#priceRange div{
+    display: flex;
+}
+#priceRange button {
+    padding: 5px;
+    margin: 5px 10px;
+}
+/* active button*/
+
+.activeBtn {
+    background-color: #E94B64;
+}
+
+
+/* ------- SEARCH PAGE --------- */
+

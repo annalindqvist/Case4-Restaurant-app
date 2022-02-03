@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="sv">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+
+    <title>Restaurant-app</title>
+</head>
+
+<body>
+    <header>
+        <h1>FeedMe</h1>
+    </header>
+
+    <main id="searchPage">
+        <div>
+            <select name="address" id="address">
+                <option value="addressOne" id="addressOne">1022 5th Ave, New York, 10028, USA</option>
+                <option value="addressTwo" id="addressTwo">185 Greenwich St, New York, NY 10007, USA</option>
+            </select>
+        </div>
+
+        <form action="#">
+
+            <label for="cuisines">What do you crave?</label>
+            <input type="text" name="cuisines" id="cuisinesInput" placeholder="Search on restaurantname, cuisine..">
+
+            <div id="filterOptions">
+                <h3>Or filter your search down here:</h3>
+
+                <div id="priceRange">
+                    <h4>Filter by price</h4>
+                    <div>
+                        <button id="priceOne">$</button>
+                        <button id="priceTwo">$$</button>
+                        <button id="priceThree">$$$</button>
+                        <button id="priceFour">$$$$</button>
+                    </div>
+                </div>
+                <div id="distanceBox">
+                    <h4>Filter by distance</h4>
+                    <div id="distance">
+                        <button id="">up to 1km</button>
+                        <button id="oneTwo">1km to 2km</button>
+                        <button id="twoThree">2km to 3km</button>
+                        <button id="threeFour">3km to 4km</button>
+                        <button id="fourFive">4km to 5km</button>
+                        <button id="fiveOrMore">5km and longer</button>
+                    </div>
+                </div>
+                <div id="cuisineChoises">
+                    <h4>Filter by cuisine</h4>
+                    <div id="cuisineChoise">
+                        <button id="chinese">Chinese</button>
+                        <button id="american">American</button>
+                        <button id="italian">Italian</button>
+                        <button id="indian">Indian</button>
+                    </div>
+                </div>
+
+            </div>
+            <input id="submitBtn" type="submit" value="Search" formaction="searchResult.html">
+            <!--
+            <button id="submitBtn" type="submit"><a href="searchResult.html">Sök</a></button>
+            -->
+        </form>
+        <form action="#"></form>
+
+        <div id="result"></div>
+        
+    </main>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
