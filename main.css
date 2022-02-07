@@ -66,6 +66,32 @@ h1 {
     color: #E94B64;
 }
 
+header nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border: none;
+    background: #E94B64;
+    box-shadow: 0px 5px 15px rgba(233, 75, 100, 0.35);
+    border-radius: 15px;
+    width: 90vw;
+    height: 40px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #FAFAFA;
+    position: fixed;
+    bottom: 20px;
+
+    background: #FAFAFA;
+    box-shadow: 0px 5px 15px rgba(233, 75, 100, 0.35);
+    border-radius: 15px;
+
+}
+
+header nav a {
+    color: #E94B64;
+}
+
 main {
     margin: 15px;
 }
@@ -79,7 +105,7 @@ form {
     flex-direction: column;
 }
 
-form label{
+form label {
     color: #333333;
     font-size: 16px;
     margin-bottom: 10px;
@@ -124,11 +150,45 @@ form #submitBtn {
 #result div {
     display: flex;
     flex-direction: column;
-    margin-bottom: 10px;
-    margin-top: 10px;
-    border: 1px solid black;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 10px;
+    color: #333333;
+
+    background: #FAFAFA;
+    box-shadow: 0px 4px 4px 2px rgba(255, 206, 214, 0.2);
+    border-radius: 20px;
+
+    
+    
 }
 
+#result div h4{
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    margin-left: 30%;
+    position: relative; /* gör så att h4 ligger på sökknappen.. */ 
+}
+
+#result div p {
+    font-size: 10px;
+    font-weight: normal;
+    margin-left: 30%;
+}
+
+#result div .distanceClass {
+    font-size: 12px;
+    font-weight: bold;
+    color: #E94B64;
+    position: absolute;
+    right: 80px;
+    
+}
+
+#result div a {
+    margin-top: 20px;
+}
 
 div h4 {
     font-size: 12px;
@@ -151,19 +211,65 @@ div p {
     margin: 20px 0px;
 }
 
-#priceRange div{
+#priceRange div {
     display: flex;
 }
+
 #priceRange button {
     padding: 5px;
     margin: 5px 10px;
 }
+
 /* active button*/
 
-.activeBtn {
+.activeBtn,
+.activeBtnCuisine,
+.activeDistanceBtn {
     background-color: #E94B64;
 }
 
 
+#searchInputBtn {
+    border: none;
+    background: #FAFAFA;
+    box-shadow: inset 0px 4px 4px 3px rgba(255, 206, 214, 0.2);
+    border-radius: 50px;
+    width: 90vw;
+    height: 35px;
+    padding: 10px 20px 10px 20px;
+
+    text-decoration: none;
+    font-size: 12px;
+    text-align: left;
+    color: #9F9F9F;
+    font-weight: lighter;
+
+}
+
 /* ------- SEARCH PAGE --------- */
 
+#searchPageHeader {
+    position: relative;
+}
+
+#searchPageHeader a {
+
+    position: absolute;
+    left: 10px;
+    color: black;
+
+}
+
+#favoritesPage h4 {
+    color: #333333;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.heartBtn {
+    color: #E94B64;
+}
+
+.fa-heart {
+    pointer-events: none;
+}

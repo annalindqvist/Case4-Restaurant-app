@@ -1,10 +1,10 @@
 // har hämtar information från API:et om New York
 // med denna länk: "https://api.documenu.com/v2/restaurants/state/NY?key=e85086501af955112390f6a87d0cb5c2";
-// sparat informationen i en json-fil som jag i denna kod hämtar information från
 
 // json filen
-let url = "NY100.json";
-const form = document.querySelector("form");
+const url = "jsonFiles/NY100.json"
+const brooklynUrl = "jsonFiles/brooklyn.json"
+
 let inputBox = document.getElementById("cuisinesInput");
 const priceRangeDiv = document.getElementById("priceRangeDiv");
 const priceOneBtn = document.getElementById("priceOne");
@@ -15,23 +15,35 @@ const submitBtn = document.getElementById("submitBtn")
 const result = document.getElementById("result");
 const cuisineChoise = document.getElementById("cuisineChoises");
 
+const homeBtn = document.getElementById("homeBtn")
+const allRest = document.getElementById("allRest");
+const newRest = document.getElementById("newRest");
+
 // distanceBtn
-const fiveOrMore = document.getElementById("fiveOrMore");
+const distance = document.getElementById("distance");
 
-// lat long in addresses
-let addressOne = document.getElementById("addressOne");
-addressOne = [40.779792, -73.961611];
+// Latitude & Longitude
 
-let addressTwo = document.getElementById("addressTwo");
-addressTwo = [40.712984, -74.013276];
+let latitudeInput = document.getElementById("latitude");
+let longitudeInput = document.getElementById("longitude");
 
+// Class variables
+let activeBtnCuisine = document.getElementsByClassName("activeBtnCuisine");
+let activeDistanceBtn = document.getElementsByName("activeDistanceBtn");
+
+// data and searchResult variables
 let restaurantData;
-let divCounter = 0; // ta bort? behövs denna ens? till vad isåfall?
 let searchResult = [];
-
 
 // -------------------------------------------------------------------------
 // kolla på: ha fetch i en onclick/onsubmit/addeventlistner så den inte körs i onödan...
+// när man klickar på sök-knappen kanske? finns dock "två" sökknappar (sök nere i menyn och på homepage)
+
+const signIn = document.getElementById("signIn");
+
+//signIn.addEventListener("click", function(e) {
+
+//    e.preventDefault();
 
 fetch(url).then(function (response) {
 
@@ -48,6 +60,12 @@ fetch(url).then(function (response) {
     console.log(error);
 });
 
+//})
+
+
+function sortfunc(data) {
+    return data;
+}
 
 // -----------------------------------------------------------------------------------------------------------------------
 // när man klickar på search-knappen (submit) kollar vi vilka knappar som är aktiva och filtrerar därefter restaurangerna
@@ -108,16 +126,15 @@ submitBtn.addEventListener("click", function (e) {
         searchResult = [...searchResult, cuisineSearch];
     }
 
-    // tar enbart fram testArray[0] nu.. hur ska man skriva..?
-    testArray.map((cuisine) => {
+    for (let i = 0; i < activeBtnCuisine.length; i++) {
 
-        let cuisineChoises = restaurantData.filter((restaurant) => {
-            return restaurant.cuisines.includes(testArray[0]);
-        })
-        searchResult = [...searchResult, cuisineChoises];
-        
-    })
+        let cuisineFilters = restaurantData.filter((restaurant) => {
+            return restaurant.cuisines.find(cuisine => cuisine.includes(activeBtnCuisine[i].value));
+        });
 
+        searchResult = [...searchResult, cuisineFilters];
+
+    }
 
     // mappar igenom searchResult och kör funktionen createElement 
     searchResult.map((restaurant) => {
@@ -125,6 +142,7 @@ submitBtn.addEventListener("click", function (e) {
         createElement(restaurant)
 
     });
+
 
 })
 
@@ -151,30 +169,20 @@ priceFourBtn.addEventListener("click", function () {
 
 })
 
-// distance btn.....?
-fiveOrMore.addEventListener("click", function () {
-    fiveOrMore.classList.toggle("activeBtn")
+// ------------- DISTANCE BUTTONS -------------
+distance.addEventListener("click", function (e) {
+
+    e.target.classList.toggle("activeDistanceBtn")
+
 })
 
 
-// ------------- CUISINE KNAPPARNA -------------
-// kolla mer på detta igen...
-
-let testArray = [];
+// ------------- CUISINE BUTTONS -------------
 cuisineChoise.addEventListener("click", function (e) {
 
+    e.target.classList.toggle("activeBtnCuisine");
 
-    e.target.classList.toggle("activeBtn");
-
-    if (e.target.className === "activeBtn") {
-        testArray = [...testArray, e.target.innerText];
-    } else {
-        let index = testArray.findIndex(number =>  number === e.target.value);
-        testArray.splice(index); 
-    }
-    console.log(testArray);
 })
-
 
 // funktionen som skapar element + lägger in info om restaurangerna
 
@@ -183,8 +191,6 @@ function createElement(data) {
     data.forEach(element => {
 
         let div = document.createElement("div");
-
-        div.id = "divId" + divCounter++;
 
         // restaurant name
         let restaurantName = document.createElement("h4");
@@ -203,12 +209,31 @@ function createElement(data) {
 
         // geo.. long & lat
         let geo = document.createElement("p");
-        geo.innerText = calcCrow(element.geo.lat, element.geo.lon, addressOne[0], addressOne[1]);
+        geo.innerText = calcCrow(element.geo.lat, element.geo.lon, latitudeInput.innerText, longitudeInput.innerText);
+        geo.classList = "distanceClass";
         div.appendChild(geo);
+
+        //heart
+        let heart = document.createElement("p");
+        //heart.innerHTML = '<i class="far fa-heart"></i>';
+        heart.innerHTML = '<i class="far fa-heart"></i>';
+        heart.classList = "heartBtn";
+        heart.id = "heart";
+        div.appendChild(heart);
+
+        // website
+        if (element.restaurant_website.length > 1) {
+            let restaurantWebsite = document.createElement("a");
+            restaurantWebsite.href = element.restaurant_website;
+            restaurantWebsite.innerText = "Restaurants website";
+            restaurantWebsite.setAttribute("target", "_blank");
+            div.appendChild(restaurantWebsite);
+        }
 
         // adding to result div
         result.appendChild(div);
     });
+
 
 }
 
@@ -232,3 +257,12 @@ function calcCrow(lat1, lon1, lat2, lon2) {
 function toRadius(Value) {
     return Value * Math.PI / 180;
 }
+
+// heartBtn fill or un-fill
+result.onclick = function (e) {
+    e.preventDefault();
+    console.log(e.target)
+    if (e.target.className === "heartBtn") {
+        e.target.firstElementChild.classList.toggle("fas");
+    }
+};

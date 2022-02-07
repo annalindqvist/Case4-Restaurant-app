@@ -1,0 +1,2620 @@
+{
+    "totalResults": 1046,
+    "page": 1,
+    "total_pages": 11,
+    "more_pages": true,
+    "data": [{
+            "restaurant_name": "Cafe on Broadway",
+            "restaurant_phone": "(212) 496-4004",
+            "restaurant_website": "http://cafeonbroadwaynyc.com",
+            "hours": "Daily: 6am-12am",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4078778373976413,
+            "cuisines": [
+                "Diner"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2350 Broadway",
+                "formatted": "2350 Broadway New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.787783,
+                "lon": -73.976413
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:12.715Z"
+        },
+        {
+            "restaurant_name": "Mamma's Famous Pizza & Wings",
+            "restaurant_phone": "(212) 362-8612",
+            "restaurant_website": "http://www.mammasfamousnyc.com/",
+            "hours": "Daily: 24 hours ",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078809073976859,
+            "cuisines": [
+                "Diner",
+                "Pizza"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2345 Broadway Ave",
+                "formatted": "2345 Broadway Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.78809,
+                "lon": -73.976859
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:42.281Z"
+        },
+        {
+            "restaurant_name": "Prime KO",
+            "restaurant_phone": "(212) 496-1888",
+            "restaurant_website": "http://primeko.primehospitalityny.com/",
+            "hours": " ",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4078762773976519,
+            "cuisines": [
+                "Japanese",
+                "Kosher",
+                "Steak",
+                "Sushi"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "217 W 85th St",
+                "formatted": "217 W 85th St New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.787627,
+                "lon": -73.976519
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:53:35.357Z"
+        },
+        {
+            "restaurant_name": "Dean's Family Style Restaurant & Pizzeria",
+            "restaurant_phone": "(212) 875-1100",
+            "restaurant_website": "http://www.deansnyc.com",
+            "hours": "Delivery Daily: 12pm-10pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4078756873976389,
+            "cuisines": [
+                "Pasta",
+                "Pizza"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "215 W 85th St",
+                "formatted": "215 W 85th St NEW YORK, NY 10024"
+            },
+            "geo": {
+                "lat": 40.787568,
+                "lon": -73.976389
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:13.266Z"
+        },
+        {
+            "restaurant_name": "Prime Burger",
+            "restaurant_phone": "(212) 658-1833",
+            "restaurant_website": "",
+            "hours": "Mon-Thu: 5:30pm-10pm Sat: 9am-11:30pm Sun: 5pm-9:30pm",
+            "price_range": "$$$",
+            "price_range_num": 3,
+            "restaurant_id": 4078757673976447,
+            "cuisines": [
+                "Burgers",
+                "Hot Dogs",
+                "Kosher"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "217 W 85th St",
+                "formatted": "217 W 85th St New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.787576,
+                "lon": -73.976447
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:59:13.450Z"
+        },
+        {
+            "restaurant_name": "Han Dynasty",
+            "restaurant_phone": "(212) 858-9060",
+            "restaurant_website": "http:///ny/new-york/565821-han-dynasty/",
+            "hours": "",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4078756073976395,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "215 W 85th St",
+                "formatted": "215 W 85th St New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.78756,
+                "lon": -73.976395
+            },
+            "menus": [],
+            "last_updated": "2020-12-28T23:01:38.911Z"
+        },
+        {
+            "restaurant_name": "Jamba Juice",
+            "restaurant_phone": "(212) 873-7040",
+            "restaurant_website": "http://www.jambajuice.com",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078813073977095,
+            "cuisines": [
+                "American",
+                "Smoothies & Juices"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2341 Broadway",
+                "formatted": "2341 Broadway NEW YORK, NY 10024"
+            },
+            "geo": {
+                "lat": 40.78813,
+                "lon": -73.977095
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:17.073Z"
+        },
+        {
+            "restaurant_name": "Juice Generation (Broadway)",
+            "restaurant_phone": "(212) 531-3111",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4078826073977175,
+            "cuisines": [
+                "Local/Organic",
+                "Sandwiches",
+                "Smoothies & Juices"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2345 Broadway",
+                "formatted": "2345 Broadway New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.78826,
+                "lon": -73.977175
+            },
+            "menus": [],
+            "last_updated": "2020-12-28T23:07:42.569Z"
+        },
+        {
+            "restaurant_name": "Soup Man",
+            "restaurant_phone": "(212) 721-0745",
+            "restaurant_website": "http://www.originalsoupman.com",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078855273977068,
+            "cuisines": [
+                "American",
+                "Salads",
+                "Soups"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "251 W. 86th Street & Broadway",
+                "formatted": "251 W. 86th Street & Broadway New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.788552,
+                "lon": -73.977068
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:13.061Z"
+        },
+        {
+            "restaurant_name": "Perfect Halal Food",
+            "restaurant_phone": "(929) 530-6155",
+            "restaurant_website": "http:///ny/new-york/574703-perfect-halal-food/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078902673976344,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2379 W Broadway",
+                "formatted": "2379 W Broadway New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.789026,
+                "lon": -73.976344
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:03:48.566Z"
+        },
+        {
+            "restaurant_name": "Kasbah BBQ & Grill",
+            "restaurant_phone": "(212) 496-1500",
+            "restaurant_website": "http://www.delikasbah.com",
+            "hours": "Sun-Thu: 12pm-11pm ",
+            "price_range": "$$$$",
+            "price_range_num": 4,
+            "restaurant_id": 4078798573977444,
+            "cuisines": [
+                "Deli Food",
+                "Kosher",
+                "Middle Eastern",
+                "Steak",
+                "Sushi"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "251 W 85th St",
+                "formatted": "251 W 85th St New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.787985,
+                "lon": -73.977444
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:50:19.382Z"
+        },
+        {
+            "restaurant_name": "Kirsh Bakery and Kitchen",
+            "restaurant_phone": "(212) 951-1123",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4078818073974683,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "551 Amsterdam Ave",
+                "formatted": "551 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.78818,
+                "lon": -73.974683
+            },
+            "menus": [],
+            "last_updated": "2020-12-28T23:04:04.434Z"
+        },
+        {
+            "restaurant_name": "Dunkin'",
+            "restaurant_phone": "(212) 595-1682",
+            "restaurant_website": "https://www.dunkindonuts.com?utm_source=yext&utm_medium=local&utm_campaign=localmaps&utm_content=347934",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078750073974900,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "535 Amsterdam Ave",
+                "formatted": "535 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.7875,
+                "lon": -73.9749
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:06:16.422Z"
+        },
+        {
+            "restaurant_name": "Popover Cafe",
+            "restaurant_phone": "(212) 595-8555",
+            "restaurant_website": "http://www.popovercafe.com/",
+            "hours": "Daily: 8:30am-9:30pm",
+            "price_range": "$$$$",
+            "price_range_num": 4,
+            "restaurant_id": 4078824073974612,
+            "cuisines": [
+                "American",
+                "Breakfast",
+                "Burgers",
+                "Healthy",
+                "Salads",
+                "Sandwiches",
+                "Soups"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "551 Amsterdam Ave",
+                "formatted": "551 Amsterdam Ave NEW YORK, NY 10024"
+            },
+            "geo": {
+                "lat": 40.78824,
+                "lon": -73.974612
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:41.907Z"
+        },
+        {
+            "restaurant_name": "New Kam Lai",
+            "restaurant_phone": "(212) 769-8990",
+            "restaurant_website": "",
+            "hours": "Daily: 11am-11pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4078693873975861,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "514 Amsterdam Ave",
+                "formatted": "514 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.786938,
+                "lon": -73.975861
+            },
+            "menus": [],
+            "last_updated": "2020-12-28T23:09:10.892Z"
+        },
+        {
+            "restaurant_name": "Barney Greengrass",
+            "restaurant_phone": "(212) 724-4707",
+            "restaurant_website": "http://www.barneygreengrass.com/",
+            "hours": "Tue-Sun: 8:30am-6pm ",
+            "price_range": "$$$",
+            "price_range_num": 3,
+            "restaurant_id": 4078797573974589,
+            "cuisines": [
+                "Deli Food",
+                "Sandwiches",
+                "Seafood"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "541 Amsterdam Ave",
+                "formatted": "541 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.787975,
+                "lon": -73.974589
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:42.459Z"
+        },
+        {
+            "restaurant_name": "Indian Tanpura",
+            "restaurant_phone": "(212) 721-8700",
+            "restaurant_website": "",
+            "hours": "Lunch Daily: 11:30am-3:30pm Dinner Daily: 4pm-11pm",
+            "price_range": "$$$",
+            "price_range_num": 3,
+            "restaurant_id": 4078869973974700,
+            "cuisines": [
+                "Indian"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "564 Amsterdam Ave",
+                "formatted": "564 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.788699,
+                "lon": -73.9747
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:41.962Z"
+        },
+        {
+            "restaurant_name": "Baked by Melissa",
+            "restaurant_phone": "(212) 842-0220",
+            "restaurant_website": "http://www.bakedbymelissa.com/checkout/Location.aspx?loc=5",
+            "hours": "Mon - Thur: 8am-10pm Friday: 8am-11pm Saturday: 9am-11pm Sunday: 9am-10pm",
+            "price_range": "$$$",
+            "price_range_num": 3,
+            "restaurant_id": 4078727873977520,
+            "cuisines": [
+                "Bakery & Pastries",
+                "Desserts"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2325 Broadway",
+                "formatted": "2325 Broadway New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.787278,
+                "lon": -73.97752
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:01:06.481Z"
+        },
+        {
+            "restaurant_name": "Green Leaf Deli",
+            "restaurant_phone": "(212) 877-7507",
+            "restaurant_website": "",
+            "hours": "Mon-Fri: 6:30am-2pm",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078697073975535,
+            "cuisines": [
+                "Deli Food",
+                "Sandwiches"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "518 Amsterdam Ave",
+                "formatted": "518 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.78697,
+                "lon": -73.975535
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:13.325Z"
+        },
+        {
+            "restaurant_name": "MIMI Japanese",
+            "restaurant_phone": "(212) 787-8316",
+            "restaurant_website": "https://www.miminyc.net/menus",
+            "hours": "",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4078877073974670,
+            "cuisines": [
+                "Japanese"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "566 Amsterdam Ave",
+                "formatted": "566 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.78877,
+                "lon": -73.97467
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:06:13.839Z"
+        },
+        {
+            "restaurant_name": "Amelie",
+            "restaurant_phone": "(646) 422-7167",
+            "restaurant_website": "http:///ny/new-york/836474-amelie/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078877373974670,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "566 Amsterdam Ave",
+                "formatted": "566 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.788773,
+                "lon": -73.97467
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:11:28.740Z"
+        },
+        {
+            "restaurant_name": "MIMI",
+            "restaurant_phone": "(212) 787-8316",
+            "restaurant_website": "",
+            "hours": "Mon - Thurs: 5PM-10:30PM Fri: 5PM-10:45PM Sat: 12:00-2:45PM, 5PM-10:30PM Sun: 12:00PM-2:45, 5PM-10PM ",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4078876273974654,
+            "cuisines": [
+                "Japanese",
+                "Kosher",
+                "Vegetarian"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "566 Amsterdam Ave",
+                "formatted": "566 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.788762,
+                "lon": -73.974654
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:41.927Z"
+        },
+        {
+            "restaurant_name": "Uptown Poke",
+            "restaurant_phone": "(646) 649-5561",
+            "restaurant_website": "http:///ny/new-york/539430-kureiji-poke-sushi/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078681273976044,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "506 Amsterdam Ave",
+                "formatted": "506 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.786812,
+                "lon": -73.976044
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:06:12.016Z"
+        },
+        {
+            "restaurant_name": "Hot & Crusty Bakery Cafe",
+            "restaurant_phone": "(212) 877-7714",
+            "restaurant_website": "",
+            "hours": "Daily: 24 hours",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4078949573975740,
+            "cuisines": [
+                "Bagels",
+                "Deli Food",
+                "Pizza",
+                "Sandwiches"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2393 Broadway Ave",
+                "formatted": "2393 Broadway Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.789495,
+                "lon": -73.97574
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T00:59:05.866Z"
+        },
+        {
+            "restaurant_name": "The Bagel Cafe",
+            "restaurant_phone": "(212) 496-0632",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078948473975690,
+            "cuisines": [
+                "American",
+                "Sandwiches"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2393 Broadway",
+                "formatted": "2393 Broadway NEW YORK, NY 10024"
+            },
+            "geo": {
+                "lat": 40.789484,
+                "lon": -73.97569
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:13.278Z"
+        },
+        {
+            "restaurant_name": "Ali Baba",
+            "restaurant_phone": "(212) 787-6008",
+            "restaurant_website": "",
+            "hours": " ",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4078685273975620,
+            "cuisines": [
+                "Kosher",
+                "Middle Eastern"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "515 Amsterdam Ave",
+                "formatted": "515 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.786852,
+                "lon": -73.97562
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:42.031Z"
+        },
+        {
+            "restaurant_name": "The Mermaid Inn",
+            "restaurant_phone": "(212) 799-7400",
+            "restaurant_website": "http://www.themermaidnyc.com",
+            "hours": "Dinner Sun-Mon: 5pm-10pm Tue-Sat: 5pm-10:30pm Brunch Sat-Sun: 11am-3:30pm ",
+            "price_range": "$$$$",
+            "price_range_num": 4,
+            "restaurant_id": 4078882473974609,
+            "cuisines": [
+                "Seafood"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "568 Amsterdam Ave",
+                "formatted": "568 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.788824,
+                "lon": -73.974609
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:50:22.077Z"
+        },
+        {
+            "restaurant_name": "B. Cafe West",
+            "restaurant_phone": "(212) 873-0003",
+            "restaurant_website": "http://www.bcafe.com/West/",
+            "hours": "Dinner Mon-Thu: 5pm-11pm Fri-Sat: 5pm-12am Sun: 5pm-10pm Brunch Sat-Sun: 10am-4pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4078871673974464,
+            "cuisines": [
+                "Belgian"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "566 Amsterdam Ave",
+                "formatted": "566 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.788716,
+                "lon": -73.974464
+            },
+            "menus": [],
+            "last_updated": "2020-12-28T23:08:25.433Z"
+        },
+        {
+            "restaurant_name": "Rancho Cafe",
+            "restaurant_phone": "(212) 362-1514",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078888873974563,
+            "cuisines": [
+                "Mexican"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "570 Amsterdam Ave",
+                "formatted": "570 Amsterdam Ave NEW YORK, NY 10024"
+            },
+            "geo": {
+                "lat": 40.788888,
+                "lon": -73.974563
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:13.147Z"
+        },
+        {
+            "restaurant_name": "Kitaro",
+            "restaurant_phone": "(212) 787-9008",
+            "restaurant_website": "http://kitarosushi-nyc.com",
+            "hours": "Sun-Thu: 11:30am-11pm Fri-Sat: 11:30am-11:30pm",
+            "price_range": "$$$",
+            "price_range_num": 3,
+            "restaurant_id": 4078674973975698,
+            "cuisines": [
+                "Asian",
+                "Japanese",
+                "Lunch Specials",
+                "Sushi"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "510 Amsterdam Ave",
+                "formatted": "510 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.786749,
+                "lon": -73.975698
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:42.320Z"
+        },
+        {
+            "restaurant_name": "The Mermaid Inn UWS",
+            "restaurant_phone": "(212) 799-7400",
+            "restaurant_website": "http:///ny/new-york/836339-the-mermaid-inn-uws/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078887073974532,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "570 Amsterdam Ave",
+                "formatted": "570 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.78887,
+                "lon": -73.974532
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:11:28.707Z"
+        },
+        {
+            "restaurant_name": "Celeste",
+            "restaurant_phone": "(212) 874-4559",
+            "restaurant_website": "",
+            "hours": "Mon-Thu: 5pm-11pm Fri-Sat: 5pm-11:30pm Sun: 5pm-10:30pm Brunch: Sat-Sun: 12pm-3pm",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4078667873976074,
+            "cuisines": [
+                "Italian",
+                "Pizza"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "502 Amsterdam Ave",
+                "formatted": "502 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.786678,
+                "lon": -73.976074
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:13.303Z"
+        },
+        {
+            "restaurant_name": "Aged",
+            "restaurant_phone": "(212) 712-0700",
+            "restaurant_website": "",
+            "hours": "Mon-Thu: 5pm-11pm Fri: 5pm-12am Sat: 11am-12am Sun: 11am-11pm",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4078951473975390,
+            "cuisines": [
+                "Desserts",
+                "Kids Menu",
+                "Lunch Specials",
+                "Seafood",
+                "Steak"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2398 Broadway",
+                "formatted": "2398 Broadway New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.789514,
+                "lon": -73.97539
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T00:57:57.554Z"
+        },
+        {
+            "restaurant_name": "Slightly Oliver",
+            "restaurant_phone": "(000) 000-0000",
+            "restaurant_website": "",
+            "hours": "Dinner Sun-Thu: 5pm-11pm Fri-Sat: 5pm-12am Brunch Sat-Sun: 11am-4pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4078674173975522,
+            "cuisines": [
+                "Bar Food"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "511 Amsterdam Ave",
+                "formatted": "511 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.786741,
+                "lon": -73.975522
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T00:59:05.364Z"
+        },
+        {
+            "restaurant_name": "Lucky Pickle Dumpling Co",
+            "restaurant_phone": "(212) 392-5407",
+            "restaurant_website": "http:///ny/new-york/553339-lucky-pickle-dumpling-co/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078677473975311,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "513 Amsterdam Ave",
+                "formatted": "513 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.786774,
+                "lon": -73.975311
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:06:15.216Z"
+        },
+        {
+            "restaurant_name": "Mamajuana",
+            "restaurant_phone": "(212) 362-1514",
+            "restaurant_website": "http://uws.mamajuana-cafe.com/",
+            "hours": "Mon-Tue: 4pm-1am Wed-Thu: 4pm-2:30am Fri: 4pm-4am Sat: 11am-4am Sun: 11am-2:30am",
+            "price_range": "$$$$",
+            "price_range_num": 4,
+            "restaurant_id": 4078883873974377,
+            "cuisines": [
+                "Latin American",
+                "Puerto Rican"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "570 Amsterdam Ave",
+                "formatted": "570 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.788838,
+                "lon": -73.974377
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T00:59:16.102Z"
+        },
+        {
+            "restaurant_name": "E's Bar",
+            "restaurant_phone": "(718) 302-4573",
+            "restaurant_website": "http://www.slightlyolivernyc.com/",
+            "hours": "",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4078664873975449,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "511 Amsterdam Avenue",
+                "formatted": "511 Amsterdam Avenue New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.786648,
+                "lon": -73.975449
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T00:59:46.691Z"
+        },
+        {
+            "restaurant_name": "Ouest",
+            "restaurant_phone": "(212) 580-8700",
+            "restaurant_website": "http://www.questny.com",
+            "hours": "Mon-Tue: 5:30pm-9:30pm Wed-Thu: 5:30pm-10pm Fri-Sat: 5pm-11pm Sun: 5pm-9pm Brunch Sun: 11am-2pm",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078695873977788,
+            "cuisines": [
+                "American (New)",
+                "French"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2315 Broadway",
+                "formatted": "2315 Broadway New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.786958,
+                "lon": -73.977788
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:13.309Z"
+        },
+        {
+            "restaurant_name": "Spiga",
+            "restaurant_phone": "(212) 362-5506",
+            "restaurant_website": "http://www.spiganyc.com",
+            "hours": "Daily: 5:30pm-11pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4078648973976474,
+            "cuisines": [
+                "Italian"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "200 W 84th St",
+                "formatted": "200 W 84th St New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.786489,
+                "lon": -73.976474
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:13.918Z"
+        },
+        {
+            "restaurant_name": "5 Napkin Burger UWS",
+            "restaurant_phone": "(212) 333-4488",
+            "restaurant_website": "http://www.5napkinburger.com",
+            "hours": "Mon-Fri: 11:30am-12am Sat-Sun: 11am-12am",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4078710073978000,
+            "cuisines": [
+                "American",
+                "Burgers",
+                "Sushi"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2315 Broadway",
+                "formatted": "2315 Broadway New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.7871,
+                "lon": -73.978
+            },
+            "menus": [],
+            "last_updated": "2020-12-28T23:08:28.936Z"
+        },
+        {
+            "restaurant_name": "Harriet's Kitchen",
+            "restaurant_phone": "(212) 721-0045",
+            "restaurant_website": "",
+            "hours": "Daily: 11:30am-11pm",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078649673975883,
+            "cuisines": [
+                "American",
+                "Burgers",
+                "Chicken",
+                "Wings"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "502 Amsterdam Ave",
+                "formatted": "502 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.786496,
+                "lon": -73.975883
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:42.160Z"
+        },
+        {
+            "restaurant_name": "Maison Pickle",
+            "restaurant_phone": "(212) 496-9100",
+            "restaurant_website": "http:///ny/new-york/553160-maison-pickle/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078706073977966,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2315 Broadway",
+                "formatted": "2315 Broadway New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.78706,
+                "lon": -73.977966
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:06:15.173Z"
+        },
+        {
+            "restaurant_name": "The Neptune Room",
+            "restaurant_phone": "(212) 496-4100",
+            "restaurant_website": "http://www.theneptuneroom.com",
+            "hours": "Dinner Sun-Mon: 5:30pm-10pm Tue-Thu: 5:30pm-11pm Fri-Sat: 5:30pm-11:30pm Brunch Sat-Sun: 11:30am-3pm",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078660373975381,
+            "cuisines": [
+                "American",
+                "Mediterranean",
+                "Seafood"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "511 Amsterdam Ave",
+                "formatted": "511 Amsterdam Ave NEW YORK, NY 10024"
+            },
+            "geo": {
+                "lat": 40.786603,
+                "lon": -73.975381
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:13.261Z"
+        },
+        {
+            "restaurant_name": "Jacob's Pickles",
+            "restaurant_phone": "(212) 470-5566",
+            "restaurant_website": "",
+            "hours": "Daily: 10am-12am",
+            "price_range": "$$$",
+            "price_range_num": 3,
+            "restaurant_id": 4078658573975401,
+            "cuisines": [
+                "Bar Food",
+                "Cocktails",
+                "Soul Food"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "509 Amsterdam Ave",
+                "formatted": "509 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.786585,
+                "lon": -73.975401
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T00:59:52.517Z"
+        },
+        {
+            "restaurant_name": "M. Rohrs'",
+            "restaurant_phone": "(212) 396-4456",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078827273978547,
+            "cuisines": [
+                "American",
+                "Coffee & Tea"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "303 W 85th St",
+                "formatted": "303 W 85th St NEW YORK, NY 10024"
+            },
+            "geo": {
+                "lat": 40.788272,
+                "lon": -73.978547
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:19.628Z"
+        },
+        {
+            "restaurant_name": "Le Pain Quotidien (Amsterdam Ave)",
+            "restaurant_phone": "(212) 877-1200",
+            "restaurant_website": "",
+            "hours": "Mon-Fri: 7am-7pm Sat-Sun: 8am-7pm ",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078633473976215,
+            "cuisines": [
+                "Belgian",
+                "Coffee & Tea",
+                "Sandwiches",
+                "Vegetarian"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "494 Amsterdam Ave",
+                "formatted": "494 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.786334,
+                "lon": -73.976215
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:17.977Z"
+        },
+        {
+            "restaurant_name": "ABlue Chinese",
+            "restaurant_phone": "(212) 874-3100",
+            "restaurant_website": "",
+            "hours": "Mon-Fri: 11am-11pm Sat-Sun: 11am-12am",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4078611073976163,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "490 Amsterdam Ave",
+                "formatted": "490 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.78611,
+                "lon": -73.976163
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:59:18.210Z"
+        },
+        {
+            "restaurant_name": "Bodrum Mediterranean Restaurant",
+            "restaurant_phone": "(212) 799-2806",
+            "restaurant_website": "http://www.bodrumnyc.ocm",
+            "hours": "Sun-Tue: 11:30am-10pm Wed-Sat: 11:30am-10:45pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4078920573973898,
+            "cuisines": [
+                "Mediterranean",
+                "Pizza",
+                "Turkish"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "584 Amsterdam Ave",
+                "formatted": "584 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.789205,
+                "lon": -73.973898
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:13.299Z"
+        },
+        {
+            "restaurant_name": "Caridad Restaurant",
+            "restaurant_phone": "(212) 595-8121",
+            "restaurant_website": "",
+            "hours": "Mon-Thu: 7am-12pm Fri-Sun: 7am-1am",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078945773974110,
+            "cuisines": [
+                "Latin American",
+                "Puerto Rican"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10025",
+                "street": "588 Amsterdam Ave",
+                "formatted": "588 Amsterdam Ave New York, NY 10025"
+            },
+            "geo": {
+                "lat": 40.789457,
+                "lon": -73.97411
+            },
+            "menus": [],
+            "last_updated": "2020-12-28T23:10:39.449Z"
+        },
+        {
+            "restaurant_name": "Alachi Masala Indian",
+            "restaurant_phone": "(212) 874-0737",
+            "restaurant_website": "http://www.alachimasalanyc.com",
+            "hours": "Daily: 12pm-11pm",
+            "price_range": "$$$",
+            "price_range_num": 3,
+            "restaurant_id": 4078605273976208,
+            "cuisines": [
+                "Indian"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "488 Amsterdam Ave",
+                "formatted": "488 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.786052,
+                "lon": -73.976208
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:12.773Z"
+        },
+        {
+            "restaurant_name": "Dunkin'",
+            "restaurant_phone": "(212) 362-7022",
+            "restaurant_website": "https://www.dunkindonuts.com?utm_source=yext&utm_medium=local&utm_campaign=localmaps&utm_content=357879",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4079000073974800,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2414 Broadway",
+                "formatted": "2414 Broadway New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.79,
+                "lon": -73.9748
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:03:46.045Z"
+        },
+        {
+            "restaurant_name": "FLOR DE MAYO RESTAURANT",
+            "restaurant_phone": "(212) 787-3388",
+            "restaurant_website": "http://flordemayo.com/",
+            "hours": "Mon-Sun: 12pm-12am",
+            "price_range": "$$$",
+            "price_range_num": 3,
+            "restaurant_id": 4078602773976450,
+            "cuisines": [
+                "Chinese",
+                "Latin American"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "484 Amsterdam Ave",
+                "formatted": "484 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.786027,
+                "lon": -73.97645
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:12.161Z"
+        },
+        {
+            "restaurant_name": "Caesar's Palace",
+            "restaurant_phone": "(212) 724-7886",
+            "restaurant_website": "http://www.cpppny.com",
+            "hours": "Sun-Wed: 11am-12am Thu-Sat: 11am-1am",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078603973975822,
+            "cuisines": [
+                "Italian",
+                "Kids Menu",
+                "Pasta",
+                "Pizza",
+                "Sandwiches"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "493 Amsterdam Ave",
+                "formatted": "493 Amsterdam Ave NEW YORK, NY 10024"
+            },
+            "geo": {
+                "lat": 40.786039,
+                "lon": -73.975822
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:12.057Z"
+        },
+        {
+            "restaurant_name": "Cibo e Vino",
+            "restaurant_phone": "(212) 362-0096",
+            "restaurant_website": "http://ciboevinony.com/",
+            "hours": "Sun-Thurs: 10am - 10:30pmFri: 10am - 11pmSat: 9am - 11pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4079005573974845,
+            "cuisines": [
+                "Italian"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2418 Broadway Ave",
+                "formatted": "2418 Broadway Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.790055,
+                "lon": -73.974845
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:58:31.380Z"
+        },
+        {
+            "restaurant_name": "JG Melon",
+            "restaurant_phone": "(646) 895-9388",
+            "restaurant_website": "http:///ny/new-york/543432-jg-melon/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078596273976669,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "480 Amsterdam Ave",
+                "formatted": "480 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.785962,
+                "lon": -73.976669
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:06:12.994Z"
+        },
+        {
+            "restaurant_name": "Bustan NYC",
+            "restaurant_phone": "(212) 595-5050",
+            "restaurant_website": "",
+            "hours": "Mon-Thu: 11:30am-3pm+5pm-11pm Fri-Sat: 11am-3pm+5pm-11pm Sun: 11am-3pm-5pm-10pm",
+            "price_range": "$$$$$",
+            "price_range_num": 5,
+            "restaurant_id": 4078590873975952,
+            "cuisines": [
+                "Mediterranean"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "487 Amsterdam Ave",
+                "formatted": "487 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.785908,
+                "lon": -73.975952
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:58:31.578Z"
+        },
+        {
+            "restaurant_name": "Papa John's Pizza - Upper West Side",
+            "restaurant_phone": "(212) 724-1200",
+            "restaurant_website": "http://www.papajohns.com",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078964073973978,
+            "cuisines": [
+                "American",
+                "Pizza"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "594 Amsterdam Ave",
+                "formatted": "594 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.78964,
+                "lon": -73.973978
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:11:27.339Z"
+        },
+        {
+            "restaurant_name": "Chipotle",
+            "restaurant_phone": "(646) 412-6237",
+            "restaurant_website": "",
+            "hours": "Daily: 11am-10pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4078608773977631,
+            "cuisines": [
+                "Mexican"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2298 Broadway",
+                "formatted": "2298 Broadway New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.786087,
+                "lon": -73.977631
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:58:28.453Z"
+        },
+        {
+            "restaurant_name": "Polpette",
+            "restaurant_phone": "(212) 858-0511",
+            "restaurant_website": "http://www.polpetteny.com/",
+            "hours": "Sunday & Monday 5pm - 10:30pm Tuesday - Thursday 5pm - 11pm Friday & Saturday 5pm - 11:30pm Happy Hour from 5 - 7pm Monday thru Friday. ",
+            "price_range": "$$$$",
+            "price_range_num": 4,
+            "restaurant_id": 4078583973976176,
+            "cuisines": [
+                "Italian"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "483 Amsterdam Ave",
+                "formatted": "483 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.785839,
+                "lon": -73.976176
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:58:33.574Z"
+        },
+        {
+            "restaurant_name": "George Keeley",
+            "restaurant_phone": "(212) 873-0251",
+            "restaurant_website": "http://www.georgekeeley.com",
+            "hours": "",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4078583473975978,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "485 Amsterdam Ave",
+                "formatted": "485 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.785834,
+                "lon": -73.975978
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:03:25.409Z"
+        },
+        {
+            "restaurant_name": "George Keeley",
+            "restaurant_phone": "(212) 873-0251",
+            "restaurant_website": "https://www.georgekeeley.com",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078580073976000,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "485 AMSTERDAM AVE",
+                "formatted": "485 AMSTERDAM AVE New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.7858,
+                "lon": -73.976
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:11:58.929Z"
+        },
+        {
+            "restaurant_name": "Amsterdam Deli",
+            "restaurant_phone": "(212) 769-8935",
+            "restaurant_website": "",
+            "hours": "Daily: 24 Hrs",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078578473976233,
+            "cuisines": [
+                "Deli Food",
+                "Sandwiches"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "481 Amsterdam Ave",
+                "formatted": "481 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.785784,
+                "lon": -73.976233
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:13.429Z"
+        },
+        {
+            "restaurant_name": "Marinara Pizza",
+            "restaurant_phone": "(917) 265-8780",
+            "restaurant_website": "http:///ny/new-york/565806-marinara-pizza/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078576773976044,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "483 Amsterdam Ave",
+                "formatted": "483 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.785767,
+                "lon": -73.976044
+            },
+            "menus": [],
+            "last_updated": "2020-12-28T23:01:39.120Z"
+        },
+        {
+            "restaurant_name": "Good Enough to Eat",
+            "restaurant_phone": "(212) 496-0163",
+            "restaurant_website": "http://www.goodenoughtoeat.com",
+            "hours": "Mon-Thu: 8am-10:30pm Fri: 8am-11pm Sat: 9am-11pm Sun: 9am-10:30pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4078575673976050,
+            "cuisines": [
+                "American",
+                "Desserts"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "520 Columbus Ave",
+                "formatted": "520 Columbus Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.785756,
+                "lon": -73.97605
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:42.406Z"
+        },
+        {
+            "restaurant_name": "Cafe Lalo",
+            "restaurant_phone": "(212) 496-6031",
+            "restaurant_website": "http://www.restaurants.com/US/Redirect.asp?Info=Website&RefNo=2124966031",
+            "hours": "Mon-Thu: 8am-2am Fri: 8am-4am Sat: 9am-4am Sun: 9am-2am",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4078574673976477,
+            "cuisines": [
+                "Bakery & Pastries",
+                "Coffee & Tea",
+                "Desserts",
+                "Sandwiches"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "201 W 83rd St",
+                "formatted": "201 W 83rd St New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.785746,
+                "lon": -73.976477
+            },
+            "menus": [],
+            "last_updated": "2020-12-28T23:10:40.188Z"
+        },
+        {
+            "restaurant_name": "Ollie's To Go",
+            "restaurant_phone": "(212) 877-2298",
+            "restaurant_website": "",
+            "hours": "Daily: 11:30am-10:45pm",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4079049073975242,
+            "cuisines": [
+                "Chinese",
+                "Sushi"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10025",
+                "street": "2425 Broadway",
+                "formatted": "2425 Broadway New York, NY 10025"
+            },
+            "geo": {
+                "lat": 40.79049,
+                "lon": -73.975242
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T00:58:42.074Z"
+        },
+        {
+            "restaurant_name": "Soldier McGee Tavern",
+            "restaurant_phone": "(212) 579-4299",
+            "restaurant_website": "",
+            "hours": "Daily: 12pm-4am",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4078571073976516,
+            "cuisines": [
+                "Bar Food"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "480 Amsterdam Ave",
+                "formatted": "480 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.78571,
+                "lon": -73.976516
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:01:07.461Z"
+        },
+        {
+            "restaurant_name": "Hi Life Restaurant",
+            "restaurant_phone": "(212) 787-7199",
+            "restaurant_website": "http://www.hi-life.com/",
+            "hours": "Dinner Sun-Thu: 4pm-11pm Fri-Sat: 4pm-2am Brunch Sat-Sun: 10:30am-4pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4078567173976485,
+            "cuisines": [
+                "American",
+                "Cocktails",
+                "Sushi"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "477 Amsterdam Ave",
+                "formatted": "477 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.785671,
+                "lon": -73.976485
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:42.546Z"
+        },
+        {
+            "restaurant_name": "Fred's Restaurant",
+            "restaurant_phone": "(212) 579-3076",
+            "restaurant_website": "http://fredsrestaurantandbar.com",
+            "hours": "Twilight Sat-Sun: 3:30pm-5pm Dinner Sun-Thu: 5pm-11pm Fri-Sat: 5pm-12am Brunch Sat-Sun: 10am-3:30pm ",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078565373976725,
+            "cuisines": [
+                "American"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "476 Amsterdam Ave",
+                "formatted": "476 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.785653,
+                "lon": -73.976725
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:13.463Z"
+        },
+        {
+            "restaurant_name": "Hanafin's",
+            "restaurant_phone": "(212) 721-1533",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078607673978193,
+            "cuisines": [
+                "American",
+                "Diner"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2286 Broadway",
+                "formatted": "2286 Broadway NEW YORK, NY 10024"
+            },
+            "geo": {
+                "lat": 40.786076,
+                "lon": -73.978193
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:12.324Z"
+        },
+        {
+            "restaurant_name": "Candle Cafe West",
+            "restaurant_phone": "(212) 769-8900",
+            "restaurant_website": "http://www.candlecafe.com/",
+            "hours": "Mon-Sat: 11:30am-10:30pm Sun: 11:30am-9:30pm",
+            "price_range": "$$$",
+            "price_range_num": 3,
+            "restaurant_id": 4079060473975230,
+            "cuisines": [
+                "Healthy",
+                "Local/Organic",
+                "Vegan",
+                "Vegetarian"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2427 Broadway",
+                "formatted": "2427 Broadway New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.790604,
+                "lon": -73.97523
+            },
+            "menus": [],
+            "last_updated": "2020-12-28T23:08:25.184Z"
+        },
+        {
+            "restaurant_name": "Hi-Life Bar & Grill",
+            "restaurant_phone": "(212) 787-7199",
+            "restaurant_website": "http://www.hi-life.com",
+            "hours": "",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4078557173976371,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "477 Amsterdam Avenue",
+                "formatted": "477 Amsterdam Avenue New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.785571,
+                "lon": -73.976371
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T00:59:15.451Z"
+        },
+        {
+            "restaurant_name": "Murray's Sturgeon Shop",
+            "restaurant_phone": "(212) 724-2650",
+            "restaurant_website": "http://www.murrayssturgeonshop.com",
+            "hours": "Daily: 8am-7pm",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4079061273975057,
+            "cuisines": [
+                "Deli Food",
+                "Seafood"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2429 Broadway",
+                "formatted": "2429 Broadway New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.790612,
+                "lon": -73.975057
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:53:32.033Z"
+        },
+        {
+            "restaurant_name": "Hale & Hearty",
+            "restaurant_phone": "(212) 721-4900",
+            "restaurant_website": "http://www.haleandhearty.com",
+            "hours": "Sun: 11am-8pm Mon-Fri: 10am-9pm Sat: 11am-7pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4078597473978281,
+            "cuisines": [
+                "Sandwiches",
+                "Soups"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2284 Broadway",
+                "formatted": "2284 Broadway New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.785974,
+                "lon": -73.978281
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:59:16.389Z"
+        },
+        {
+            "restaurant_name": "Amaze 82",
+            "restaurant_phone": "(212) 874-0369",
+            "restaurant_website": "",
+            "hours": "Sun-Thu: 12pm-11:30pm Fri-Sat: 12pm-12am ",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078552273976987,
+            "cuisines": [
+                "Japanese",
+                "Sushi"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "466 Amsterdam Ave",
+                "formatted": "466 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.785522,
+                "lon": -73.976987
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:12.259Z"
+        },
+        {
+            "restaurant_name": "Cafe Eighty-Two",
+            "restaurant_phone": "(212) 875-8373",
+            "restaurant_website": "http://cafe82ny.com",
+            "hours": "Daily: 6am-1:30am",
+            "price_range": "$$$",
+            "price_range_num": 3,
+            "restaurant_id": 4078593973978293,
+            "cuisines": [
+                "Diner"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2282 Broadway Ave",
+                "formatted": "2282 Broadway Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.785939,
+                "lon": -73.978293
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:12.426Z"
+        },
+        {
+            "restaurant_name": "All American Pancake House",
+            "restaurant_phone": "(212) 875-8373",
+            "restaurant_website": "http:///ny/new-york/604562-all-american-pancake-house/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078586673978149,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2282 Broadway",
+                "formatted": "2282 Broadway New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.785866,
+                "lon": -73.978149
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:04:44.731Z"
+        },
+        {
+            "restaurant_name": "New Yoshi Japanese Cuisine",
+            "restaurant_phone": "(212) 489-3589",
+            "restaurant_website": "http://newyoshijapanesecuisine.com",
+            "hours": "Mon-Fri: 11am-10:30pm Sat: 12pm-10:30pm Sun: 12pm -10:30pm",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078544973976728,
+            "cuisines": [
+                "Asian",
+                "Japanese"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "466 Amsterdam Ave",
+                "formatted": "466 Amsterdam Ave NEW YORK, NY 10024"
+            },
+            "geo": {
+                "lat": 40.785449,
+                "lon": -73.976728
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:48.146Z"
+        },
+        {
+            "restaurant_name": "All American Pancake House",
+            "restaurant_phone": "(646) 761-2058",
+            "restaurant_website": "",
+            "hours": "Daily: 6am-1am",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4078589673978312,
+            "cuisines": [
+                "Bagels",
+                "Bakery & Pastries",
+                "Breakfast",
+                "Fresh Fruit",
+                "Healthy"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2282 Broadway",
+                "formatted": "2282 Broadway NEW YORK, NY 10024"
+            },
+            "geo": {
+                "lat": 40.785896,
+                "lon": -73.978312
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:53:38.134Z"
+        },
+        {
+            "restaurant_name": "Hampton Chutney Co.",
+            "restaurant_phone": "(212) 362-5050",
+            "restaurant_website": "http://www.hamptonchutney.com",
+            "hours": "Daily: 10am-10pm ",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4078542973976891,
+            "cuisines": [
+                "Indian",
+                "Local/Organic",
+                "Vegetarian"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "464 Amsterdam Ave",
+                "formatted": "464 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.785429,
+                "lon": -73.976891
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:42.051Z"
+        },
+        {
+            "restaurant_name": "Mokum",
+            "restaurant_phone": "(212) 799-4111",
+            "restaurant_website": "http:///ny/new-york/628941-mokum/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078541273976936,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "464 Amsterdam Ave",
+                "formatted": "464 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.785412,
+                "lon": -73.976936
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:04:49.079Z"
+        },
+        {
+            "restaurant_name": "Mido",
+            "restaurant_phone": "(212) 877-0033",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4079006273973495,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "612 Amsterdam Ave",
+                "formatted": "612 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.790062,
+                "lon": -73.973495
+            },
+            "menus": [],
+            "last_updated": "2020-12-28T23:04:05.255Z"
+        },
+        {
+            "restaurant_name": "Greater China Inc",
+            "restaurant_phone": "(212) 724-5000",
+            "restaurant_website": "",
+            "hours": "Mon-Thu: 11am-11pm Fri-Sat: 11am-12am Sun: 11:30am-11pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4078995273973352,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "610 Amsterdam Ave",
+                "formatted": "610 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.789952,
+                "lon": -73.973352
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T00:58:32.074Z"
+        },
+        {
+            "restaurant_name": "Coffeeberry",
+            "restaurant_phone": "(212) 721-1800",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4079021173973664,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "618 Amsterdam Ave",
+                "formatted": "618 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.790211,
+                "lon": -73.973664
+            },
+            "menus": [],
+            "last_updated": "2020-12-28T23:04:08.450Z"
+        },
+        {
+            "restaurant_name": "Seasons Thyme Restaurant",
+            "restaurant_phone": "(212) 721-0566",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4079006573973476,
+            "cuisines": [
+                "Asian",
+                "Healthy",
+                "Japanese",
+                "Noodles",
+                "Sushi",
+                "Thai"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "612 Amsterdam Ave",
+                "formatted": "612 Amsterdam Ave NEW YORK, NY 10024"
+            },
+            "geo": {
+                "lat": 40.790065,
+                "lon": -73.973476
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:53:30.531Z"
+        },
+        {
+            "restaurant_name": "Saigon Cafe",
+            "restaurant_phone": "(212) 721-0566",
+            "restaurant_website": "",
+            "hours": "Sun-Thu: 11am-11pm Fri-Sat: 11am-12am",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4078998073973362,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "612 Amsterdam Ave",
+                "formatted": "612 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.78998,
+                "lon": -73.973362
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:03:24.541Z"
+        },
+        {
+            "restaurant_name": "Anthi's Greek Food",
+            "restaurant_phone": "(212) 787-1007",
+            "restaurant_website": "http://anthisgreekfood-nyc.com",
+            "hours": "Daily: 10am-10pm ",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4079013173973463,
+            "cuisines": [
+                "Greek"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "614A Amsterdam Ave",
+                "formatted": "614A Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.790131,
+                "lon": -73.973463
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:53:36.250Z"
+        },
+        {
+            "restaurant_name": "Georgia & Aliou's Tiny Treats Cafe",
+            "restaurant_phone": "(646) 767-9797",
+            "restaurant_website": "http://www.tinytreatscafe.com",
+            "hours": "Mon-Thu: 8am-9pm Fri-Sun: 8am-11pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4079013573973439,
+            "cuisines": [
+                "Bakery & Pastries",
+                "Coffee & Tea",
+                "Desserts"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "616 Amsterdam Ave",
+                "formatted": "616 Amsterdam Ave NEW YORK, NY 10024"
+            },
+            "geo": {
+                "lat": 40.790135,
+                "lon": -73.973439
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:04:00.874Z"
+        },
+        {
+            "restaurant_name": "Sol Y Sombra",
+            "restaurant_phone": "(212) 400-4036",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4078530273976947,
+            "cuisines": [
+                "Spanish",
+                "Tapas"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "462 Amsterdam Ave ",
+                "formatted": "462 Amsterdam Ave  NEW YORK, NY 10024"
+            },
+            "geo": {
+                "lat": 40.785302,
+                "lon": -73.976947
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:53:33.167Z"
+        },
+        {
+            "restaurant_name": "Bagel Basket",
+            "restaurant_phone": "(212) 721-1800",
+            "restaurant_website": "http://thebagelbasketofny.com",
+            "hours": "Sun: 7am-7pm Mon-Thu: 6am-8pm Fri: 6am-1:30pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4079023273973479,
+            "cuisines": [
+                "Bagels",
+                "Deli Food",
+                "Kosher"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "618 Amsterdam Ave",
+                "formatted": "618 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.790232,
+                "lon": -73.973479
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:11.946Z"
+        },
+        {
+            "restaurant_name": "Jin Ramen Noodle & Rice Bowls",
+            "restaurant_phone": "(646) 657-0755",
+            "restaurant_website": "http://www.jinramen.com",
+            "hours": "Lunch Daily: 11:30am-3:30pm Dinner Mon-Thu: 5pm-11pm Fri-Sat: 5pm-12am Sun: 5pm-10pm",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4078524073976800,
+            "cuisines": [
+                "Japanese",
+                "Noodles"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "462 Amsterdam Ave",
+                "formatted": "462 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.78524,
+                "lon": -73.9768
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:04:01.827Z"
+        },
+        {
+            "restaurant_name": "Georgia & Aliou's Tiny Treats Cafe",
+            "restaurant_phone": "(646) 767-9797",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4079006973973274,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "616 Amsterdam Ave",
+                "formatted": "616 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.790069,
+                "lon": -73.973274
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:04:03.012Z"
+        },
+        {
+            "restaurant_name": "City Diner",
+            "restaurant_phone": "(212) 877-2720",
+            "restaurant_website": "http://citydiner-orderonline.com",
+            "hours": "Daily: 24hrs",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4079084273974565,
+            "cuisines": [
+                "Diner"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2441 Broadway Ave",
+                "formatted": "2441 Broadway Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.790842,
+                "lon": -73.974565
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:13.371Z"
+        },
+        {
+            "restaurant_name": "El Internacional Cafe & Restaurant",
+            "restaurant_phone": "(212) 724-9314",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4079008773973262,
+            "cuisines": [
+                "Dominican"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "616 Amsterdam Ave",
+                "formatted": "616 Amsterdam Ave NEW YORK, NY 10024"
+            },
+            "geo": {
+                "lat": 40.790087,
+                "lon": -73.973262
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:13.101Z"
+        },
+        {
+            "restaurant_name": "Famous Amadeus Pizza",
+            "restaurant_phone": "(212) 501-7333",
+            "restaurant_website": "",
+            "hours": "Sun-Mon: 10am-9:45pm Tue-Sat: 9:45am-10:45pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4079014173973245,
+            "cuisines": [
+                "American",
+                "Burgers",
+                "Italian",
+                "Pasta",
+                "Pizza",
+                "Sandwiches",
+                "Wings",
+                "Wraps"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "616 Amsterdam Ave",
+                "formatted": "616 Amsterdam Ave NEW YORK, NY 10024"
+            },
+            "geo": {
+                "lat": 40.790141,
+                "lon": -73.973245
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:53:33.857Z"
+        },
+        {
+            "restaurant_name": "Amused NYC",
+            "restaurant_phone": "(212) 799-0080",
+            "restaurant_website": "",
+            "hours": "Sat-Sun: 11am-8pm ",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4078516073975287,
+            "cuisines": [
+                "Local/Organic",
+                "Sandwiches",
+                "Vegetarian"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "142 W 83rd St",
+                "formatted": "142 W 83rd St New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.78516,
+                "lon": -73.975287
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T00:59:51.359Z"
+        },
+        {
+            "restaurant_name": "The Kosher Marketplace",
+            "restaurant_phone": "(212) 580-6378",
+            "restaurant_website": "http://www.thekoshermarketplace.com/",
+            "hours": "",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4079092173974387,
+            "cuisines": [
+                "Deli Food",
+                "Kosher"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2442 Broadway",
+                "formatted": "2442 Broadway NEW YORK, NY 10024"
+            },
+            "geo": {
+                "lat": 40.790921,
+                "lon": -73.974387
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:53:35.777Z"
+        },
+        {
+            "restaurant_name": "By the Way Bakery",
+            "restaurant_phone": "(212) 877-0806",
+            "restaurant_website": "",
+            "hours": "Daily: 8am-6pm",
+            "price_range": "$$$",
+            "price_range_num": 3,
+            "restaurant_id": 4079086673974219,
+            "cuisines": [
+                "Bakery & Pastries"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "2442 Broadway",
+                "formatted": "2442 Broadway New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.790866,
+                "lon": -73.974219
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:58:32.993Z"
+        },
+        {
+            "restaurant_name": "Saigon Grill",
+            "restaurant_phone": "(212) 875-9072",
+            "restaurant_website": "",
+            "hours": "Daily: 11am-12am",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4079024473973147,
+            "cuisines": [
+                "Asian",
+                "Healthy",
+                "Vegetarian",
+                "Vietnamese"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "620 Amsterdam Ave",
+                "formatted": "620 Amsterdam Ave New York, NY 10024"
+            },
+            "geo": {
+                "lat": 40.790244,
+                "lon": -73.973147
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T00:58:31.862Z"
+        },
+        {
+            "restaurant_name": "West 82nd Deli & Grocery",
+            "restaurant_phone": "(212) 579-5207",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4078510773977276,
+            "cuisines": [
+                "American",
+                "Deli Food"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10024",
+                "street": "454 Amsterdam Ave",
+                "formatted": "454 Amsterdam Ave NEW YORK, NY 10024"
+            },
+            "geo": {
+                "lat": 40.785107,
+                "lon": -73.977276
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:13.392Z"
+        }
+    ],
+    "numResults": 100
+}

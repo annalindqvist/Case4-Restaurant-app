@@ -1,0 +1,2562 @@
+{
+    "totalResults": 3391,
+    "page": 1,
+    "total_pages": 34,
+    "more_pages": true,
+    "data": [{
+            "restaurant_name": "Kam Man",
+            "restaurant_phone": "(718) 282-3400",
+            "restaurant_website": "",
+            "hours": "Mon-Sat: 11:30am-12am Sun: 12pm-5:30pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4064965173949683,
+            "cuisines": [
+                "Chinese",
+                "Wings"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1500 Nostrand Ave",
+                "formatted": "1500 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.649651,
+                "lon": -73.949683
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:35:34.276Z"
+        },
+        {
+            "restaurant_name": "Burger King",
+            "restaurant_phone": "(718) 483-9813",
+            "restaurant_website": "http:///ny/brooklyn/550338-burger-king/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065060873949806,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "2848 Church Ave",
+                "formatted": "2848 Church Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.650608,
+                "lon": -73.949806
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:37:41.951Z"
+        },
+        {
+            "restaurant_name": "Dunkin'",
+            "restaurant_phone": "(718) 703-0198",
+            "restaurant_website": "https://www.dunkindonuts.com",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065039473949310,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1467 Nostrand Ave",
+                "formatted": "1467 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.650394,
+                "lon": -73.94931
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:02.428Z"
+        },
+        {
+            "restaurant_name": "Baskin-Robbins",
+            "restaurant_phone": "(718) 703-0198",
+            "restaurant_website": "https://www.baskinrobbins.com?utm_source=Yext&utm_medium=organic&utm_campaign=Yext",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065040073949300,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1467 Nostrand Ave",
+                "formatted": "1467 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.6504,
+                "lon": -73.9493
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:05.393Z"
+        },
+        {
+            "restaurant_name": "Exquisite Express",
+            "restaurant_phone": "(718) 693-4643",
+            "restaurant_website": "",
+            "hours": "Mon-Fri: 8am-8pm Sat: 11am-10pm Sun: 11am-6pm",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4065078673949740,
+            "cuisines": [
+                "Caribbean",
+                "Jamaican"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "2847 Church Ave",
+                "formatted": "2847 Church Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.650786,
+                "lon": -73.94974
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:35:37.831Z"
+        },
+        {
+            "restaurant_name": "Lenny's Pizzeria",
+            "restaurant_phone": "(718) 703-2323",
+            "restaurant_website": "",
+            "hours": "Mon-Sat: 11am-10:30pm Sun: 12pm-10pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4065082673949324,
+            "cuisines": [
+                "Italian",
+                "Pizza"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "3021 Church Ave",
+                "formatted": "3021 Church Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.650826,
+                "lon": -73.949324
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:34:54.287Z"
+        },
+        {
+            "restaurant_name": "McDonald's",
+            "restaurant_phone": "",
+            "restaurant_website": "http://www.mcdonalds.com",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065073373950937,
+            "cuisines": [
+                "American",
+                "Burgers"
+            ],
+            "address": {
+                "city": "BROOKLYN",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "2848 Church Ave",
+                "formatted": "2848 Church Ave BROOKLYN, NY 11226"
+            },
+            "geo": {
+                "lat": 40.650733,
+                "lon": -73.950937
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:34:16.935Z"
+        },
+        {
+            "restaurant_name": "Rama's Roti Shop",
+            "restaurant_phone": "(718) 287-7262",
+            "restaurant_website": "",
+            "hours": "Daily: 9am-9pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4065103973950332,
+            "cuisines": [
+                "Caribbean",
+                "Other"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "2831 Church Ave",
+                "formatted": "2831 Church Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.651039,
+                "lon": -73.950332
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:35:43.404Z"
+        },
+        {
+            "restaurant_name": "Chen Kong",
+            "restaurant_phone": "(718) 282-3170",
+            "restaurant_website": "",
+            "hours": "Mon-Sat: 11am-12am Sun: 12pm-10:30pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4065116073949910,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1438 Nostrand Ave",
+                "formatted": "1438 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.65116,
+                "lon": -73.94991
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:35:34.186Z"
+        },
+        {
+            "restaurant_name": "Subway",
+            "restaurant_phone": "(718) 676-0699",
+            "restaurant_website": "https://restaurants.subway.com/united-states/ny/brooklyn/3005-church-avenue?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=55751&utm_campaign=evergreen-2020&y_source=1_MTQ4OTg2NjEtNzA",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065100073949200,
+            "cuisines": [
+                "Sandwiches"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "3005 Church Avenue",
+                "formatted": "3005 Church Avenue Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.651,
+                "lon": -73.9492
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:37:35.818Z"
+        },
+        {
+            "restaurant_name": "Caribbean Vibes",
+            "restaurant_phone": "(347) 663-9085",
+            "restaurant_website": "http:///ny/brooklyn/725239-caribbean-vibes/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065123473949966,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1436 Nostrand Ave",
+                "formatted": "1436 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.651234,
+                "lon": -73.949966
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:38.290Z"
+        },
+        {
+            "restaurant_name": "Prince Deli",
+            "restaurant_phone": "(347) 533-7757",
+            "restaurant_website": "http:///ny/brooklyn/630803-prince-deli/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4064879273949547,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1528 Nostrand Ave",
+                "formatted": "1528 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.648792,
+                "lon": -73.949547
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:34.269Z"
+        },
+        {
+            "restaurant_name": "Bai Li Chinese Restaurant",
+            "restaurant_phone": "(718) 287-5599",
+            "restaurant_website": "",
+            "hours": "Mon-Thu: 11am-11pm Fri-Sat: 11am-12am Sun: 12pm-11pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4065048673951530,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "2728 Church Ave",
+                "formatted": "2728 Church Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.650486,
+                "lon": -73.95153
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:35:33.823Z"
+        },
+        {
+            "restaurant_name": "New Chung Mee",
+            "restaurant_phone": "(718) 856-1220",
+            "restaurant_website": "",
+            "hours": "Daily: 11am-12am",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4065099673948900,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "3017 Church Ave",
+                "formatted": "3017 Church Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.650996,
+                "lon": -73.9489
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:35:33.684Z"
+        },
+        {
+            "restaurant_name": "Kennedy Fried Chicken & Pizza",
+            "restaurant_phone": "(718) 462-7095",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065144173949647,
+            "cuisines": [
+                "American",
+                "Pizza"
+            ],
+            "address": {
+                "city": "BROOKLYN",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1429 Nostrand Ave",
+                "formatted": "1429 Nostrand Ave BROOKLYN, NY 11226"
+            },
+            "geo": {
+                "lat": 40.651441,
+                "lon": -73.949647
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:34:15.993Z"
+        },
+        {
+            "restaurant_name": "Brooklyn Soul Food",
+            "restaurant_phone": "(718) 975-2112",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065087173948233,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "3105 Church Ave",
+                "formatted": "3105 Church Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.650871,
+                "lon": -73.948233
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:37:04.473Z"
+        },
+        {
+            "restaurant_name": "Brooklyn Waffle House",
+            "restaurant_phone": "(347) 365-9222",
+            "restaurant_website": "http:///ny/brooklyn/607452-brooklyn-waffle-house/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4064836173949104,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1551 Nostrand Ave",
+                "formatted": "1551 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.648361,
+                "lon": -73.949104
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:29.122Z"
+        },
+        {
+            "restaurant_name": "Grace Before Meals Roti Shop",
+            "restaurant_phone": "(718) 282-4035",
+            "restaurant_website": "",
+            "hours": "Mon-Sat: 8am-9pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4065103073948083,
+            "cuisines": [
+                "Caribbean"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "3113 Church Ave",
+                "formatted": "3113 Church Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.65103,
+                "lon": -73.948083
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:36:01.570Z"
+        },
+        {
+            "restaurant_name": "Domino's Pizza",
+            "restaurant_phone": "(718) 826-3030",
+            "restaurant_website": "http://www.dominos.com",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4064830073949200,
+            "cuisines": [
+                "American",
+                "Pizza",
+                "Wings"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1555 Nostrand Ave",
+                "formatted": "1555 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.6483,
+                "lon": -73.9492
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:37:07.373Z"
+        },
+        {
+            "restaurant_name": "New Fresh Pizza",
+            "restaurant_phone": "(347) 444-6552",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065066873952219,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "2703 Church Ave",
+                "formatted": "2703 Church Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.650668,
+                "lon": -73.952219
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:37:05.149Z"
+        },
+        {
+            "restaurant_name": "Sahonita Restaurant",
+            "restaurant_phone": "(347) 938-4983",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4064966873952350,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11223",
+                "street": "854 Rogers Ave",
+                "formatted": "854 Rogers Ave Brooklyn, NY 11223"
+            },
+            "geo": {
+                "lat": 40.649668,
+                "lon": -73.95235
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:37:02.545Z"
+        },
+        {
+            "restaurant_name": "Family Stylz",
+            "restaurant_phone": "(347) 689-8287",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065066773952236,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11210",
+                "street": "2701 Church Ave.",
+                "formatted": "2701 Church Ave. Brooklyn, NY 11210"
+            },
+            "geo": {
+                "lat": 40.650667,
+                "lon": -73.952236
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:37:01.503Z"
+        },
+        {
+            "restaurant_name": "Nio's Trinidad Roti Shop",
+            "restaurant_phone": "(718) 287-9848",
+            "restaurant_website": "",
+            "hours": "Daily: 8am-10pm",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4065058173952319,
+            "cuisines": [
+                "Bakery & Pastries",
+                "Caribbean",
+                "Other"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "2702 Church Ave",
+                "formatted": "2702 Church Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.650581,
+                "lon": -73.952319
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:36:01.090Z"
+        },
+        {
+            "restaurant_name": "Twist Pizza",
+            "restaurant_phone": "(347) 444-6552",
+            "restaurant_website": "http:///ny/brooklyn/607104-twist-pizza/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065080673952217,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "2703 Church Ave",
+                "formatted": "2703 Church Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.650806,
+                "lon": -73.952217
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:29.185Z"
+        },
+        {
+            "restaurant_name": "Don's Bogam BBQ & Wine Bar",
+            "restaurant_phone": "(212) 683-2200",
+            "restaurant_website": "",
+            "hours": "Daily: 12pm-12am",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065046573947609,
+            "cuisines": [
+                "Alcohol",
+                "Barbecue",
+                "Korean"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10016",
+                "street": "17 E 32nd St",
+                "formatted": "17 E 32nd St New York, NY 10016"
+            },
+            "geo": {
+                "lat": 40.650465,
+                "lon": -73.947609
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:50:23.823Z"
+        },
+        {
+            "restaurant_name": "Radiance Restaurant",
+            "restaurant_phone": "(347) 365-9222",
+            "restaurant_website": "http:///ny/brooklyn/536956-radiance-restaurant/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4064823873949163,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1551 Nostrand Ave",
+                "formatted": "1551 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.648238,
+                "lon": -73.949163
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:37:36.329Z"
+        },
+        {
+            "restaurant_name": "Wah Gwan Cuisine",
+            "restaurant_phone": "(347) 413-6765",
+            "restaurant_website": "",
+            "hours": "Sun-Thu: 11am-11pm Fri-Sat: 11am-11:30pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4065090973952164,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "813 Rogers Ave",
+                "formatted": "813 Rogers Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.650909,
+                "lon": -73.952164
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:35:40.835Z"
+        },
+        {
+            "restaurant_name": "Purely organic deli grill corp",
+            "restaurant_phone": "(718) 484-7116",
+            "restaurant_website": "http:///ny/brooklyn/623370-purely-organic-deli-grill-corp/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065190973949844,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1420 Nostrand Ave",
+                "formatted": "1420 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.651909,
+                "lon": -73.949844
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:31.979Z"
+        },
+        {
+            "restaurant_name": "Land of Fire",
+            "restaurant_phone": "(347) 663-3333",
+            "restaurant_website": "http:///ny/brooklyn/622958-land-of-fire/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065079173952324,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "2701 Church Ave",
+                "formatted": "2701 Church Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.650791,
+                "lon": -73.952324
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:31.683Z"
+        },
+        {
+            "restaurant_name": "Lovells' Deli",
+            "restaurant_phone": "(347) 221-1481",
+            "restaurant_website": "http:///ny/kings/807113-lovells-deli/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4064981873952553,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Kings",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "854 Rogers Ave",
+                "formatted": "854 Rogers Ave Kings, NY 11226"
+            },
+            "geo": {
+                "lat": 40.649818,
+                "lon": -73.952553
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:44:55.191Z"
+        },
+        {
+            "restaurant_name": "Sajomita Restaurant Corp",
+            "restaurant_phone": "(347) 787-6864",
+            "restaurant_website": "",
+            "hours": "Daily: 8:30am-8:30pm",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4064986473952583,
+            "cuisines": [
+                "Chicken",
+                "Latin American",
+                "Mexican"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "854 Rogers Ave",
+                "formatted": "854 Rogers Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.649864,
+                "lon": -73.952583
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:36:23.160Z"
+        },
+        {
+            "restaurant_name": "Yo Yo Fritaille",
+            "restaurant_phone": "(718) 676-1637",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4065045873952603,
+            "cuisines": [
+                "Haitian"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "826 Rogers Ave",
+                "formatted": "826 Rogers Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.650458,
+                "lon": -73.952603
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:36:02.937Z"
+        },
+        {
+            "restaurant_name": "Bebe Fritay",
+            "restaurant_phone": "(718) 676-1636",
+            "restaurant_website": "http:///ny/brooklyn/581980-bebe-fritay/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065049073952629,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "826 Rogers Ave",
+                "formatted": "826 Rogers Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.65049,
+                "lon": -73.952629
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:08.248Z"
+        },
+        {
+            "restaurant_name": "Supreme Jamaican Restaurant",
+            "restaurant_phone": "(718) 282-3106",
+            "restaurant_website": "http:///ny/brooklyn/626477-supreme-jamaican-restaurant/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065121573952339,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "801 Rogers Ave",
+                "formatted": "801 Rogers Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.651215,
+                "lon": -73.952339
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:32.767Z"
+        },
+        {
+            "restaurant_name": "Jus' Juice",
+            "restaurant_phone": "(347) 435-0060",
+            "restaurant_website": "",
+            "hours": "Mon-Sat: 8am-10pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4065218573949723,
+            "cuisines": [
+                "Smoothies & Juices"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1403 Nostrand Ave",
+                "formatted": "1403 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.652185,
+                "lon": -73.949723
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:36:01.959Z"
+        },
+        {
+            "restaurant_name": "Trini Breakfast Shed",
+            "restaurant_phone": "(718) 282-2646",
+            "restaurant_website": "",
+            "hours": "Daily: 8am-9pm",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4065097073947087,
+            "cuisines": [
+                "Caribbean",
+                "Chinese"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "3209 Church Ave",
+                "formatted": "3209 Church Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.65097,
+                "lon": -73.947087
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:36:23.668Z"
+        },
+        {
+            "restaurant_name": "AZ Deli and Pizzeria",
+            "restaurant_phone": "(718) 282-5000",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065117773946451,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11203",
+                "street": "3301 Church Ave",
+                "formatted": "3301 Church Ave Brooklyn, NY 11203"
+            },
+            "geo": {
+                "lat": 40.651177,
+                "lon": -73.946451
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:37:03.518Z"
+        },
+        {
+            "restaurant_name": "J&K Jerk Chicken & Grill",
+            "restaurant_phone": "(718) 552-2585",
+            "restaurant_website": "http:///ny/brooklyn/572858-jk-jerk-chicken-grill/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065136073946510,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11203",
+                "street": "907 New York Ave",
+                "formatted": "907 New York Ave Brooklyn, NY 11203"
+            },
+            "geo": {
+                "lat": 40.65136,
+                "lon": -73.94651
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:05.985Z"
+        },
+        {
+            "restaurant_name": "Wing Luck",
+            "restaurant_phone": "(718) 282-6686",
+            "restaurant_website": "",
+            "hours": "Sun-Thu: 11am-12am Fri-Sat: 11am-1am",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4065074473946192,
+            "cuisines": [
+                "Chinese",
+                "Mexican"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11203",
+                "street": "3312 Church Ave",
+                "formatted": "3312 Church Ave Brooklyn, NY 11203"
+            },
+            "geo": {
+                "lat": 40.650744,
+                "lon": -73.946192
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:36:12.737Z"
+        },
+        {
+            "restaurant_name": "China Kitchen Chinese Restaurant",
+            "restaurant_phone": "(718) 282-5352",
+            "restaurant_website": "http://www.china-kitchen.info",
+            "hours": "",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4065079973946206,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11203",
+                "street": "3312 Church Avenue",
+                "formatted": "3312 Church Avenue Brooklyn, NY 11203"
+            },
+            "geo": {
+                "lat": 40.650799,
+                "lon": -73.946206
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:36:31.976Z"
+        },
+        {
+            "restaurant_name": "Chinese Kitchen",
+            "restaurant_phone": "(718) 282-6686",
+            "restaurant_website": "http:///ny/brooklyn/819587-chinese-kitchen/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065081473946198,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11203",
+                "street": "3312 Church Ave",
+                "formatted": "3312 Church Ave Brooklyn, NY 11203"
+            },
+            "geo": {
+                "lat": 40.650814,
+                "lon": -73.946198
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:40.396Z"
+        },
+        {
+            "restaurant_name": "Good Friend 1",
+            "restaurant_phone": "(718) 287-2345",
+            "restaurant_website": "",
+            "hours": "Sun-Thur: 11am-11:30pm Fri-Sat: 11am-12:30am",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4065313073950073,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1376 Nostrand Ave",
+                "formatted": "1376 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.65313,
+                "lon": -73.950073
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:35:34.256Z"
+        },
+        {
+            "restaurant_name": "Palooza Kitchen (REMODEL)",
+            "restaurant_phone": "(718) 484-8252",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4064677073949379,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1610 Nostrand Ave",
+                "formatted": "1610 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.64677,
+                "lon": -73.949379
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:37:31.201Z"
+        },
+        {
+            "restaurant_name": "Crown Fried Chicken",
+            "restaurant_phone": "(718) 484-3377",
+            "restaurant_website": "http:///ny/brooklyn/576258-crown-fried-chicken/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065091773945480,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11203",
+                "street": "3402 Church Ave",
+                "formatted": "3402 Church Ave Brooklyn, NY 11203"
+            },
+            "geo": {
+                "lat": 40.650917,
+                "lon": -73.94548
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:06.733Z"
+        },
+        {
+            "restaurant_name": "Kal's Bakery & Restaurant",
+            "restaurant_phone": "(718) 462-8786",
+            "restaurant_website": "",
+            "hours": "Mon-Sat: 10am-9pm Sun: 10am-7pm",
+            "price_range": "$$$$$",
+            "price_range_num": 5,
+            "restaurant_id": 4065124873945584,
+            "cuisines": [
+                "Bakery & Pastries",
+                "Caribbean"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11203",
+                "street": "3401 Church Ave",
+                "formatted": "3401 Church Ave Brooklyn, NY 11203"
+            },
+            "geo": {
+                "lat": 40.651248,
+                "lon": -73.945584
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:36:01.808Z"
+        },
+        {
+            "restaurant_name": "Snatch & Go Juice Bar",
+            "restaurant_phone": "(718) 282-5800",
+            "restaurant_website": "",
+            "hours": "Mon-Fri: 7am-7pm Sat: 7am-8pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4065081173945373,
+            "cuisines": [
+                "Healthy",
+                "Smoothies & Juices",
+                "Vegetarian"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11203",
+                "street": "3410A Church Ave",
+                "formatted": "3410A Church Ave Brooklyn, NY 11203"
+            },
+            "geo": {
+                "lat": 40.650811,
+                "lon": -73.945373
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:36:59.387Z"
+        },
+        {
+            "restaurant_name": "Wholesome 360",
+            "restaurant_phone": "(347) 221-1883",
+            "restaurant_website": "http:///ny/brooklyn/592067-wholesome-360/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065386673949760,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1351 Nostrand Ave",
+                "formatted": "1351 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.653866,
+                "lon": -73.94976
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:11.385Z"
+        },
+        {
+            "restaurant_name": "Gourmet Garden Market",
+            "restaurant_phone": "(347) 673-5525",
+            "restaurant_website": "http:///ny/brooklyn/761812-gourmet-garden-market/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065393873949745,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1345 Nostrand Ave",
+                "formatted": "1345 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.653938,
+                "lon": -73.949745
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:39.068Z"
+        },
+        {
+            "restaurant_name": "Kennedy Fried Chicken",
+            "restaurant_phone": "(646) 725-1854",
+            "restaurant_website": "http:///ny/brooklyn/548220-kennedy-fried-chicken/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065025373955513,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "2193 Bedford Ave",
+                "formatted": "2193 Bedford Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.650253,
+                "lon": -73.955513
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:37:41.112Z"
+        },
+        {
+            "restaurant_name": "Plenty's Paradise",
+            "restaurant_phone": "(347) 205-4522",
+            "restaurant_website": "http:///ny/brooklyn/807927-plentys-paradise/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4064595473952209,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "992 Rogers Ave",
+                "formatted": "992 Rogers Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.645954,
+                "lon": -73.952209
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:39.806Z"
+        },
+        {
+            "restaurant_name": "El Tamalero Restaurant and Bar",
+            "restaurant_phone": "(347) 385-2827",
+            "restaurant_website": "http:///ny/brooklyn/807986-el-tamalero-restaurant-and-bar/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065094473944191,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11203",
+                "street": "3518 Church Ave",
+                "formatted": "3518 Church Ave Brooklyn, NY 11203"
+            },
+            "geo": {
+                "lat": 40.650944,
+                "lon": -73.944191
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:39.809Z"
+        },
+        {
+            "restaurant_name": "Brooklyn Deli & Grocery",
+            "restaurant_phone": "(347) 365-7665",
+            "restaurant_website": "http:///ny/brooklyn/631991-brooklyn-deli-grocery/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065461073950279,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1322 Nostrand Ave",
+                "formatted": "1322 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.65461,
+                "lon": -73.950279
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:35.143Z"
+        },
+        {
+            "restaurant_name": "Four Seasons",
+            "restaurant_phone": "(718) 693-7996",
+            "restaurant_website": "",
+            "hours": "Mon-Sat: 7am-10pm Sun: 8am-8:30pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4065075373956080,
+            "cuisines": [
+                "Caribbean",
+                "Jamaican",
+                "Smoothies & Juices",
+                "Vegetarian"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "2281 Church Ave",
+                "formatted": "2281 Church Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.650753,
+                "lon": -73.95608
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:34:54.803Z"
+        },
+        {
+            "restaurant_name": "Golden Bird",
+            "restaurant_phone": "(718) 693-8810",
+            "restaurant_website": "",
+            "hours": "Mon-Thu: 11am-12am Fri-Sat: 11am-12:30am Sun: 12pm-11pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4064540273948718,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1669 Nostrand Ave",
+                "formatted": "1669 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.645402,
+                "lon": -73.948718
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:35:34.384Z"
+        },
+        {
+            "restaurant_name": "Yaya's Pizza",
+            "restaurant_phone": "(347) 627-8399",
+            "restaurant_website": "http:///ny/brooklyn/589496-yayas-pizza/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4064529473948723,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1675 Nostrand Ave",
+                "formatted": "1675 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.645294,
+                "lon": -73.948723
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:10.360Z"
+        },
+        {
+            "restaurant_name": "Yaya?s Pizza",
+            "restaurant_phone": "(347) 627-8399",
+            "restaurant_website": "",
+            "hours": "Daily: 11am-11:30pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4064512273948911,
+            "cuisines": [
+                "Chicken",
+                "Pizza",
+                "Wings"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1675 Nostrand Ave",
+                "formatted": "1675 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.645122,
+                "lon": -73.948911
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:35:58.616Z"
+        },
+        {
+            "restaurant_name": "Uncle's Shack & Grill",
+            "restaurant_phone": "(718) 282-4284",
+            "restaurant_website": "",
+            "hours": "Mon-Sat: 11am-10pm",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4065509173950031,
+            "cuisines": [
+                "Caribbean",
+                "Chicken",
+                "Seafood"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1305 Nostrand Ave",
+                "formatted": "1305 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.655091,
+                "lon": -73.950031
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:34:54.019Z"
+        },
+        {
+            "restaurant_name": "Bun-Cha-Grapes",
+            "restaurant_phone": "(347) 384-1450",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065133873943486,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11203",
+                "street": "3901 Church Ave",
+                "formatted": "3901 Church Ave Brooklyn, NY 11203"
+            },
+            "geo": {
+                "lat": 40.651338,
+                "lon": -73.943486
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:37:04.759Z"
+        },
+        {
+            "restaurant_name": "El Rincon",
+            "restaurant_phone": "(347) 663-6063",
+            "restaurant_website": "",
+            "hours": "Daily: 8am-12pm ",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4065527473950334,
+            "cuisines": [
+                "Latin American",
+                "Puerto Rican",
+                "Seafood"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1296 Nostrand Ave",
+                "formatted": "1296 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.655274,
+                "lon": -73.950334
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:35:37.738Z"
+        },
+        {
+            "restaurant_name": "New Fu Hing",
+            "restaurant_phone": "(718) 462-5870",
+            "restaurant_website": "",
+            "hours": "Mon-Thu: 11am-11pm Fri-Sat: 11am-12am Sun: 12pm-10pm ",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4065071973957141,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "2249 Church Ave",
+                "formatted": "2249 Church Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.650719,
+                "lon": -73.957141
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:35:44.045Z"
+        },
+        {
+            "restaurant_name": "Lotus Vegetarian",
+            "restaurant_phone": "(718) 484-8797",
+            "restaurant_website": "http:///ny/brooklyn/600412-lotus-vegetarian/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065071973957161,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11220",
+                "street": "2249 Church Ave",
+                "formatted": "2249 Church Ave Brooklyn, NY 11220"
+            },
+            "geo": {
+                "lat": 40.650719,
+                "lon": -73.957161
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:13.405Z"
+        },
+        {
+            "restaurant_name": "Sybil's",
+            "restaurant_phone": "",
+            "restaurant_website": "",
+            "hours": "Mon-Fri: 9am-9pm ",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4065045073957260,
+            "cuisines": [
+                "Caribbean",
+                "Jamaican"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "2210 Church Ave",
+                "formatted": "2210 Church Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.65045,
+                "lon": -73.95726
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:35:03.197Z"
+        },
+        {
+            "restaurant_name": "Wa Sushi & Thai",
+            "restaurant_phone": "(718) 484-8797",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4065046173957448,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11216",
+                "street": "2249 Church Ave",
+                "formatted": "2249 Church Ave Brooklyn, NY 11216"
+            },
+            "geo": {
+                "lat": 40.650461,
+                "lon": -73.957448
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:37:00.887Z"
+        },
+        {
+            "restaurant_name": "China City",
+            "restaurant_phone": "(718) 462-6666",
+            "restaurant_website": "",
+            "hours": "Daily: 11am-12am",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4065579273950363,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1282 Nostrand Ave",
+                "formatted": "1282 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.655792,
+                "lon": -73.950363
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:35:34.056Z"
+        },
+        {
+            "restaurant_name": "The Loft BKNY Restaurant and Lounge",
+            "restaurant_phone": "(347) 413-8061",
+            "restaurant_website": "http:///ny/brooklyn/567384-the-loft-bkny-restaurant-and-lounge/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4064420373949127,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1712 Nostrand Ave",
+                "formatted": "1712 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.644203,
+                "lon": -73.949127
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:04.801Z"
+        },
+        {
+            "restaurant_name": "MJ Pizzeria Restaurant",
+            "restaurant_phone": "(718) 826-6300",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065539973953174,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "658 Rogers Ave",
+                "formatted": "658 Rogers Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.655399,
+                "lon": -73.953174
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:37:08.816Z"
+        },
+        {
+            "restaurant_name": "Corona Pizza",
+            "restaurant_phone": "(718) 826-6300",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4065540073953241,
+            "cuisines": [
+                "Italian",
+                "Pizza"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "658 Rogers Ave",
+                "formatted": "658 Rogers Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.6554,
+                "lon": -73.953241
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:35:34.151Z"
+        },
+        {
+            "restaurant_name": "Golden Star",
+            "restaurant_phone": "(718) 282-5757",
+            "restaurant_website": "",
+            "hours": "Mon-Thu: 11:30am-12am Fri-Sat: 11:30am-1am Sun: 12:30pm-11:30pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4065116673942295,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11203",
+                "street": "3719 Church Ave",
+                "formatted": "3719 Church Ave Brooklyn, NY 11203"
+            },
+            "geo": {
+                "lat": 40.651166,
+                "lon": -73.942295
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:36:12.466Z"
+        },
+        {
+            "restaurant_name": "Tantz On The Go",
+            "restaurant_phone": "(347) 249-2602",
+            "restaurant_website": "",
+            "hours": "Tue-Wed: 11am-4pm Thu: 11am-7pm Fri-Sat: 11am-8pm Sun: 10am-4pm",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4065557673947205,
+            "cuisines": [
+                "Caribbean"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "Clarkson Ave",
+                "formatted": "Clarkson Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.655576,
+                "lon": -73.947205
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:35:38.812Z"
+        },
+        {
+            "restaurant_name": "House Pizza",
+            "restaurant_phone": "(347) 533-8571",
+            "restaurant_website": "",
+            "hours": "Mon-Thu: 11am-10pm Fri-Sat: 11am-11pm Sun: 12pm-10pm",
+            "price_range": "$$$",
+            "price_range_num": 3,
+            "restaurant_id": 4065057073957938,
+            "cuisines": [
+                "American",
+                "Barbecue",
+                "Burgers",
+                "Chicken",
+                "Grill",
+                "Healthy",
+                "Italian",
+                "Lunch Specials",
+                "Pasta",
+                "Pizza",
+                "Salads",
+                "Sandwiches",
+                "Soups",
+                "Subs",
+                "Wings",
+                "Wraps"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "2223 Church St",
+                "formatted": "2223 Church St Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.65057,
+                "lon": -73.957938
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:34:55.074Z"
+        },
+        {
+            "restaurant_name": "Gotham 2 Deli & Grill",
+            "restaurant_phone": "(347) 787-8439",
+            "restaurant_website": "",
+            "hours": "Mon-Fri: 6am-10pm Sat: 8am-10pm Sun: 9am-9pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4065609973950144,
+            "cuisines": [
+                "Deli Food",
+                "Sandwiches"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1272 Nostrand Ave",
+                "formatted": "1272 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.656099,
+                "lon": -73.950144
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:36:26.579Z"
+        },
+        {
+            "restaurant_name": "Crown Fried Chicken & Pizza",
+            "restaurant_phone": "(718) 284-1177",
+            "restaurant_website": "http:///ny/brooklyn/579965-crown-fried-chicken-pizza/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065615873949951,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1263 Nostrand Ave",
+                "formatted": "1263 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.656158,
+                "lon": -73.949951
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:07.613Z"
+        },
+        {
+            "restaurant_name": "House of Juice",
+            "restaurant_phone": "(347) 974-1985",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065583173953028,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "642 Rogers Ave",
+                "formatted": "642 Rogers Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.655831,
+                "lon": -73.953028
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:37:03.701Z"
+        },
+        {
+            "restaurant_name": "McDonald's",
+            "restaurant_phone": "",
+            "restaurant_website": "http://www.mcdonalds.com",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4064881173958137,
+            "cuisines": [
+                "American",
+                "Burgers"
+            ],
+            "address": {
+                "city": "BROOKLYN",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "943 Flatbush Ave",
+                "formatted": "943 Flatbush Ave BROOKLYN, NY 11226"
+            },
+            "geo": {
+                "lat": 40.648811,
+                "lon": -73.958137
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:34:17.842Z"
+        },
+        {
+            "restaurant_name": "Football Restaurant and Bakery",
+            "restaurant_phone": "(347) 384-3488",
+            "restaurant_website": "http:///ny/brooklyn/791967-football-restaurant-and-bakery/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4064370473948608,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11216",
+                "street": "1727 Nostrand Ave",
+                "formatted": "1727 Nostrand Ave Brooklyn, NY 11216"
+            },
+            "geo": {
+                "lat": 40.643704,
+                "lon": -73.948608
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:39.341Z"
+        },
+        {
+            "restaurant_name": "New Panda",
+            "restaurant_phone": "(718) 282-5307",
+            "restaurant_website": "",
+            "hours": "Mon-Thu: 11:30am-12:30am Fri-Sat: 11:30am-1am Sun: 12pm-12am",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4064364373949119,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1736 Nostrand Ave",
+                "formatted": "1736 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.643643,
+                "lon": -73.949119
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:35:34.349Z"
+        },
+        {
+            "restaurant_name": "Burger King",
+            "restaurant_phone": "(718) 284-3397",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4064788473957954,
+            "cuisines": [
+                "American",
+                "Burgers"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "971 Flatbush Ave",
+                "formatted": "971 Flatbush Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.647884,
+                "lon": -73.957954
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:34:16.389Z"
+        },
+        {
+            "restaurant_name": "Golden Krust",
+            "restaurant_phone": "(718) 856-2991",
+            "restaurant_website": "http://www.goldenkrustbakery.com",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4064887673958338,
+            "cuisines": [
+                "Caribbean"
+            ],
+            "address": {
+                "city": "BROOKLYN",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "931 Flatbush Ave",
+                "formatted": "931 Flatbush Ave BROOKLYN, NY 11226"
+            },
+            "geo": {
+                "lat": 40.648876,
+                "lon": -73.958338
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:29.465Z"
+        },
+        {
+            "restaurant_name": "Tastee Pattee",
+            "restaurant_phone": "(718) 484-1979",
+            "restaurant_website": "http:///ny/brooklyn/579554-tastee-pattee/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4064731673957855,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11236",
+                "street": "987 Flatbush Ave",
+                "formatted": "987 Flatbush Ave Brooklyn, NY 11236"
+            },
+            "geo": {
+                "lat": 40.647316,
+                "lon": -73.957855
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:07.204Z"
+        },
+        {
+            "restaurant_name": "Sarku Japan",
+            "restaurant_phone": "(718) 287-1222",
+            "restaurant_website": "",
+            "hours": "Mon-Sat: 11am-10pm Sun: 11am-9pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4064845373958388,
+            "cuisines": [
+                "Japanese",
+                "Sushi"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "944 Flatbush Ave",
+                "formatted": "944 Flatbush Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.648453,
+                "lon": -73.958388
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:35:00.563Z"
+        },
+        {
+            "restaurant_name": "C & J Jamaican Restaurant & Bakery",
+            "restaurant_phone": "(347) 442-1400",
+            "restaurant_website": "http:///ny/brooklyn/570416-c-j-jamaican-restaurant-bakery/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065077673958603,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "875 Flatbush Ave",
+                "formatted": "875 Flatbush Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.650776,
+                "lon": -73.958603
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:05.525Z"
+        },
+        {
+            "restaurant_name": "King Wok Fresh Tortilla",
+            "restaurant_phone": "(718) 282-3688",
+            "restaurant_website": "",
+            "hours": "Mon-Thu: 11am-11:30pm Fri-Sat: 11am-12:30pm Sun: 12pm-11pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4065656873950485,
+            "cuisines": [
+                "Chinese",
+                "Mexican"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11225",
+                "street": "1250 Nostrand Ave",
+                "formatted": "1250 Nostrand Ave Brooklyn, NY 11225"
+            },
+            "geo": {
+                "lat": 40.656568,
+                "lon": -73.950485
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:36:01.942Z"
+        },
+        {
+            "restaurant_name": "Best Kitchen Time",
+            "restaurant_phone": "(718) 282-3688",
+            "restaurant_website": "http:///ny/brooklyn/566118-best-kitchen-time/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065658273950417,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11225",
+                "street": "1250 Nostrand Ave",
+                "formatted": "1250 Nostrand Ave Brooklyn, NY 11225"
+            },
+            "geo": {
+                "lat": 40.656582,
+                "lon": -73.950417
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:04.408Z"
+        },
+        {
+            "restaurant_name": "Dunkin'",
+            "restaurant_phone": "(718) 282-1238",
+            "restaurant_website": "https://www.dunkindonuts.com?utm_source=yext&utm_medium=local&utm_campaign=localmaps&utm_content=350541",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065090073958600,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "873 Flatbush Ave",
+                "formatted": "873 Flatbush Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.6509,
+                "lon": -73.9586
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:02.799Z"
+        },
+        {
+            "restaurant_name": "Tantz Take Out",
+            "restaurant_phone": "(718) 676-0090",
+            "restaurant_website": "",
+            "hours": "Mon-Thu: 11am-8pm Fri-Sat: 11am-10pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4064344673949064,
+            "cuisines": [
+                "Caribbean",
+                "Jamaican"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "1740 Nostrand Ave",
+                "formatted": "1740 Nostrand Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.643446,
+                "lon": -73.949064
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:36:24.727Z"
+        },
+        {
+            "restaurant_name": "China Thai",
+            "restaurant_phone": "(718) 469-0282",
+            "restaurant_website": "",
+            "hours": "Daily: 11am-12am",
+            "price_range": "$$$",
+            "price_range_num": 3,
+            "restaurant_id": 4065099073958633,
+            "cuisines": [
+                "Thai"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "867 Flatbush Ave",
+                "formatted": "867 Flatbush Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.65099,
+                "lon": -73.958633
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:36:30.501Z"
+        },
+        {
+            "restaurant_name": "Wingstop",
+            "restaurant_phone": "(929) 590-9464",
+            "restaurant_website": "http:///ny/brooklyn/669117-wingstop/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4064840373958481,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "946 Flatbush Ave",
+                "formatted": "946 Flatbush Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.648403,
+                "lon": -73.958481
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:36.908Z"
+        },
+        {
+            "restaurant_name": "Mother's Seafood & More",
+            "restaurant_phone": "(347) 442-0400",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065120573941394,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11203",
+                "street": "3814 Church Ave",
+                "formatted": "3814 Church Ave Brooklyn, NY 11203"
+            },
+            "geo": {
+                "lat": 40.651205,
+                "lon": -73.941394
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:37:31.829Z"
+        },
+        {
+            "restaurant_name": "KFC",
+            "restaurant_phone": "(718) 856-7022",
+            "restaurant_website": "http://www.kfc.com",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4064847673958572,
+            "cuisines": [
+                "American",
+                "Chicken"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "942 Flatbush Ave",
+                "formatted": "942 Flatbush Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.648476,
+                "lon": -73.958572
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:34:18.453Z"
+        },
+        {
+            "restaurant_name": "Mandeville Bistro",
+            "restaurant_phone": "(347) 435-0092",
+            "restaurant_website": "http:///ny/brooklyn/573577-mandeville-bistro/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4064844173958565,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "944 Flatbush Ave",
+                "formatted": "944 Flatbush Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.648441,
+                "lon": -73.958565
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:06.239Z"
+        },
+        {
+            "restaurant_name": "Jing Lung",
+            "restaurant_phone": "(718) 462-8854",
+            "restaurant_website": "",
+            "hours": "Mon-Sat: 11am-12am Sun: 12pm-10pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4065675073950232,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11225",
+                "street": "1242 Nostrand Ave",
+                "formatted": "1242 Nostrand Ave Brooklyn, NY 11225"
+            },
+            "geo": {
+                "lat": 40.65675,
+                "lon": -73.950232
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:36:06.154Z"
+        },
+        {
+            "restaurant_name": "Manna's",
+            "restaurant_phone": "(718) 940-0330",
+            "restaurant_website": "",
+            "hours": "Daily: 11am-10pm",
+            "price_range": "$$$$$",
+            "price_range_num": 5,
+            "restaurant_id": 4064804073958515,
+            "cuisines": [
+                "Soul Food"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "956 Flatbush Ave",
+                "formatted": "956 Flatbush Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.64804,
+                "lon": -73.958515
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:36:00.208Z"
+        },
+        {
+            "restaurant_name": "Baskin-Robbins",
+            "restaurant_phone": "(718) 856-2375",
+            "restaurant_website": "http://www.baskinrobbins.com",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065087173958828,
+            "cuisines": [
+                "American",
+                "Ice Cream"
+            ],
+            "address": {
+                "city": "BROOKLYN",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "872 Flatbush Ave",
+                "formatted": "872 Flatbush Ave BROOKLYN, NY 11226"
+            },
+            "geo": {
+                "lat": 40.650871,
+                "lon": -73.958828
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:34:21.256Z"
+        },
+        {
+            "restaurant_name": "T&C Catering",
+            "restaurant_phone": "(718) 715-3151",
+            "restaurant_website": "",
+            "hours": "Mon-Fri: 9am-5pm Sat: 10am-5pm",
+            "price_range": "$$$$$",
+            "price_range_num": 5,
+            "restaurant_id": 4064355473947281,
+            "cuisines": [
+                "Soul Food"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "3113 Clarendon Rd",
+                "formatted": "3113 Clarendon Rd Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.643554,
+                "lon": -73.947281
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:36:02.874Z"
+        },
+        {
+            "restaurant_name": "Popeyes",
+            "restaurant_phone": "(347) 955-5356",
+            "restaurant_website": "http:///ny/brooklyn/596981-popeyes/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4064767573958450,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "970 Flatbush Ave",
+                "formatted": "970 Flatbush Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.647675,
+                "lon": -73.95845
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:12.356Z"
+        },
+        {
+            "restaurant_name": "Caribbean Social",
+            "restaurant_phone": "(347) 474-7328",
+            "restaurant_website": "http:///ny/kings-county/808268-caribbean-social/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065164673958763,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Kings County",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "847 Flatbush Ave",
+                "formatted": "847 Flatbush Ave Kings County, NY 11226"
+            },
+            "geo": {
+                "lat": 40.651646,
+                "lon": -73.958763
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:44:54.437Z"
+        },
+        {
+            "restaurant_name": "Flatbush Soul Food",
+            "restaurant_phone": "(718) 484-4700",
+            "restaurant_website": "",
+            "hours": "Daily: 11am-9pm",
+            "price_range": "$$$$$",
+            "price_range_num": 5,
+            "restaurant_id": 4065086573959150,
+            "cuisines": [
+                "Caribbean",
+                "Soul Food"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "872 Flatbush Ave",
+                "formatted": "872 Flatbush Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.650865,
+                "lon": -73.95915
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:36:27.950Z"
+        },
+        {
+            "restaurant_name": "Gandhi",
+            "restaurant_phone": "(718) 282-7012",
+            "restaurant_website": "",
+            "hours": "Sun-Thu: 11am-10pm Fri-Sat: 11am-10:30pm",
+            "price_range": "$$$",
+            "price_range_num": 3,
+            "restaurant_id": 4065513073956330,
+            "cuisines": [
+                "Indian"
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "2032 Bedford Ave",
+                "formatted": "2032 Bedford Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.65513,
+                "lon": -73.95633
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:34:49.416Z"
+        },
+        {
+            "restaurant_name": "Solide Rocher",
+            "restaurant_phone": "(347) 425-0661",
+            "restaurant_website": "http:///ny/brooklyn/574307-solide-rocher/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4065147473940860,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11203",
+                "street": "3901 Church Ave",
+                "formatted": "3901 Church Ave Brooklyn, NY 11203"
+            },
+            "geo": {
+                "lat": 40.651474,
+                "lon": -73.94086
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:38:06.399Z"
+        },
+        {
+            "restaurant_name": "Island Express",
+            "restaurant_phone": "(718) 469-9049",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4064701273958495,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "Brooklyn",
+                "state": "NY",
+                "postal_code": "11226",
+                "street": "998 Flatbush Ave",
+                "formatted": "998 Flatbush Ave Brooklyn, NY 11226"
+            },
+            "geo": {
+                "lat": 40.647012,
+                "lon": -73.958495
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:37:09.634Z"
+        }
+    ],
+    "numResults": 100
+}

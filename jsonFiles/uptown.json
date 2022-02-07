@@ -1,0 +1,2539 @@
+{
+    "totalResults": 1203,
+    "page": 1,
+    "total_pages": 13,
+    "more_pages": true,
+    "data": [{
+            "restaurant_name": "Ruby's Vintage",
+            "restaurant_phone": "(646) 454-9899",
+            "restaurant_website": "http:///ny/new-york/628209-rubys-vintage/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081702473943008,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2340 Adam Clayton Powell Jr Blvd",
+                "formatted": "2340 Adam Clayton Powell Jr Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.817024,
+                "lon": -73.943008
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:04:48.910Z"
+        },
+        {
+            "restaurant_name": "Kennedy Fried Chicken & Pizza",
+            "restaurant_phone": "(212) 283-1645",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081730473942153,
+            "cuisines": [
+                "American",
+                "Pizza"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2363 Adam Clayton Powell Jr Blvd",
+                "formatted": "2363 Adam Clayton Powell Jr Blvd NEW YORK, NY 10030"
+            },
+            "geo": {
+                "lat": 40.817304,
+                "lon": -73.942153
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:20.594Z"
+        },
+        {
+            "restaurant_name": "The Row Harlem",
+            "restaurant_phone": "(646) 767-9582",
+            "restaurant_website": "http:///ny/new-york/689833-the-row-harlem/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081781073942299,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2374 Adam Clayton Powell Jr Blvd",
+                "formatted": "2374 Adam Clayton Powell Jr Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.81781,
+                "lon": -73.942299
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:10:42.923Z"
+        },
+        {
+            "restaurant_name": "Ponty Bistro Harlem",
+            "restaurant_phone": "(212) 234-6474",
+            "restaurant_website": "",
+            "hours": "Mon-Wed: 11am-12am Thu-Fri: 11am-1am Sat: 10am-1am Sun: 10am-12am",
+            "price_range": "$$$$",
+            "price_range_num": 4,
+            "restaurant_id": 4081772973941852,
+            "cuisines": [
+                "African",
+                "French"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2375 Adam Clayton Powell Jr Blvd",
+                "formatted": "2375 Adam Clayton Powell Jr Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.817729,
+                "lon": -73.941852
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:03:23.062Z"
+        },
+        {
+            "restaurant_name": "Mini Market Best Wey",
+            "restaurant_phone": "(212) 283-5192",
+            "restaurant_website": "http:///ny/new-york/589636-mini-market-best-wey/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081625473943535,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2320 Adam Clayton Powell Jr Blvd",
+                "formatted": "2320 Adam Clayton Powell Jr Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.816254,
+                "lon": -73.943535
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:03:52.279Z"
+        },
+        {
+            "restaurant_name": "Make My Cake",
+            "restaurant_phone": "(212) 234-2344",
+            "restaurant_website": "",
+            "hours": "Mon-Fri: 8am-7pm Sat: 9am-7pm Sun: 9am-5pm",
+            "price_range": "$$$$$",
+            "price_range_num": 5,
+            "restaurant_id": 4081811273942000,
+            "cuisines": [
+                "Bakery & Pastries",
+                "Desserts"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10027",
+                "street": "2380 Adam Clayton Powell Jr Blvd",
+                "formatted": "2380 Adam Clayton Powell Jr Blvd New York, NY 10027"
+            },
+            "geo": {
+                "lat": 40.818112,
+                "lon": -73.942
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T00:59:54.087Z"
+        },
+        {
+            "restaurant_name": "McDonald's",
+            "restaurant_phone": "(212) 283-0559",
+            "restaurant_website": "http:///ny/new-york/621760-mcdonalds/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081794773941353,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2379 Adam Clayton Powell Jr Blvd",
+                "formatted": "2379 Adam Clayton Powell Jr Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.817947,
+                "lon": -73.941353
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:04:46.787Z"
+        },
+        {
+            "restaurant_name": "Tuscan Kitchen",
+            "restaurant_phone": "(646) 892-4705",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081590773943769,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10027",
+                "street": "2308 7th Ave",
+                "formatted": "2308 7th Ave New York, NY 10027"
+            },
+            "geo": {
+                "lat": 40.815907,
+                "lon": -73.943769
+            },
+            "menus": [],
+            "last_updated": "2020-12-28T23:04:07.758Z"
+        },
+        {
+            "restaurant_name": "Jerky'z",
+            "restaurant_phone": "(212) 837-2484",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081840773941545,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2394 Adam Clayton Powell Blvd",
+                "formatted": "2394 Adam Clayton Powell Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.818407,
+                "lon": -73.941545
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:00:56.031Z"
+        },
+        {
+            "restaurant_name": "Cafe 22",
+            "restaurant_phone": "(212) 281-8500",
+            "restaurant_website": "",
+            "hours": "Tue-Thu: 8am-9pm Fri-Sat: 8am-11pm Sun: 8am-6pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4081549273943104,
+            "cuisines": [
+                "American"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2309 Adam Clayton Powell Jr Blvd",
+                "formatted": "2309 Adam Clayton Powell Jr Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.815492,
+                "lon": -73.943104
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T00:59:54.198Z"
+        },
+        {
+            "restaurant_name": "Popeyes",
+            "restaurant_phone": "(212) 234-5838",
+            "restaurant_website": "http:///ny/new-york/597075-popeyes/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081562473943962,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2300 7th Ave",
+                "formatted": "2300 7th Ave New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.815624,
+                "lon": -73.943962
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:03:54.465Z"
+        },
+        {
+            "restaurant_name": "IHOP",
+            "restaurant_phone": "(212) 234-4747",
+            "restaurant_website": "http://ihop.com",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081517073943910,
+            "cuisines": [
+                "American",
+                "Burgers",
+                "Salads",
+                "Sandwiches",
+                "Soups",
+                "Steak",
+                "Wraps"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2294 Adam Clayton Powell Jr Blvd",
+                "formatted": "2294 Adam Clayton Powell Jr Blvd NEW YORK, NY 10030"
+            },
+            "geo": {
+                "lat": 40.81517,
+                "lon": -73.94391
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:11:58.643Z"
+        },
+        {
+            "restaurant_name": "7th Avenue Mike Food Corp",
+            "restaurant_phone": "(646) 398-7859",
+            "restaurant_website": "http:///ny/new-york/834937-7th-avenue-mike-food-corp/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081503773943489,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2299 Adam Clayton Powell Jr Blvd",
+                "formatted": "2299 Adam Clayton Powell Jr Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.815037,
+                "lon": -73.943489
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:11:28.412Z"
+        },
+        {
+            "restaurant_name": "ACTS III Bagels",
+            "restaurant_phone": "(212) 281-2287",
+            "restaurant_website": "http:///ny/new-york/596169-acts-iii-bagels/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081561373945145,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "236 W 135th St",
+                "formatted": "236 W 135th St New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.815613,
+                "lon": -73.945145
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:03:54.177Z"
+        },
+        {
+            "restaurant_name": "Callie's Taqueria & Tequila Bar",
+            "restaurant_phone": "(917) 262-0990",
+            "restaurant_website": "http:///ny/new-york/577247-callies-taqueria-tequila-bar/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081595273939919,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "547 Lenox Ave",
+                "formatted": "547 Lenox Ave New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.815952,
+                "lon": -73.939919
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:03:49.214Z"
+        },
+        {
+            "restaurant_name": "Londel's",
+            "restaurant_phone": "(212) 234-6114",
+            "restaurant_website": "",
+            "hours": "Tue-Sat: 11:30am-12am Sun: 11am-5pm",
+            "price_range": "$$$$",
+            "price_range_num": 4,
+            "restaurant_id": 4081943173944237,
+            "cuisines": [
+                "American",
+                "Soul Food"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2620 Frederick Douglass Blvd",
+                "formatted": "2620 Frederick Douglass Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.819431,
+                "lon": -73.944237
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T00:59:50.140Z"
+        },
+        {
+            "restaurant_name": "Jimbo's Hamburger Palace",
+            "restaurant_phone": "(212) 491-8680",
+            "restaurant_website": "",
+            "hours": "Mon-Sat: 6am-11pm Sun: 7am-10pm",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081545273940375,
+            "cuisines": [
+                "Burgers",
+                "Diner"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "535 Lenox Ave",
+                "formatted": "535 Lenox Ave New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.815452,
+                "lon": -73.940375
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:11.485Z"
+        },
+        {
+            "restaurant_name": "Rimar & Footah Deli",
+            "restaurant_phone": "(212) 926-2800",
+            "restaurant_website": "http:///ny/new-york/627252-rimar-footah-deli/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081922573944779,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2611 Frederick Douglass Blvd",
+                "formatted": "2611 Frederick Douglass Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.819225,
+                "lon": -73.944779
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:04:48.513Z"
+        },
+        {
+            "restaurant_name": "Abyssinia",
+            "restaurant_phone": "(212) 281-2673",
+            "restaurant_website": "",
+            "hours": "Tue-Sun: 11am-10pm",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4081615273946009,
+            "cuisines": [
+                "African",
+                "Ethiopian"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "268 W 135th St",
+                "formatted": "268 W 135th St New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.816152,
+                "lon": -73.946009
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:57:48.168Z"
+        },
+        {
+            "restaurant_name": "New Fu On Kitchen",
+            "restaurant_phone": "(212) 862-5660",
+            "restaurant_website": "",
+            "hours": "Mon-Thu: 11:15am-11:45pm Fri-Sat: 11:15am-12:45am Sun: 12pm-11:45pm",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081918773940766,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2419 Adam Clayton Powell Jr Blvd",
+                "formatted": "2419 Adam Clayton Powell Jr Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.819187,
+                "lon": -73.940766
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:11.686Z"
+        },
+        {
+            "restaurant_name": "Chinese New Hong Kong",
+            "restaurant_phone": "(212) 926-5689",
+            "restaurant_website": "",
+            "hours": "Mon-Thu: 11am-11:30pm Fri-Sat: 11am-12am Sun: 12pm-11:30pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4081520673940557,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "527-09 Lenox Ave",
+                "formatted": "527-09 Lenox Ave New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.815206,
+                "lon": -73.940557
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:11.476Z"
+        },
+        {
+            "restaurant_name": "Dunkin'",
+            "restaurant_phone": "(646) 937-8711",
+            "restaurant_website": "https://www.dunkindonuts.com?utm_source=yext&utm_medium=local&utm_campaign=localmaps&utm_content=347623",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081520073940500,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "525 Lenox Ave",
+                "formatted": "525 Lenox Ave New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.8152,
+                "lon": -73.9405
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:06:16.559Z"
+        },
+        {
+            "restaurant_name": "Easy Corner",
+            "restaurant_phone": "(646) 821-7264",
+            "restaurant_website": "http:///ny/new-york/623801-easy-corner/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081505673940689,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "101 W 136th St",
+                "formatted": "101 W 136th St New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.815056,
+                "lon": -73.940689
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:04:47.425Z"
+        },
+        {
+            "restaurant_name": "Subway",
+            "restaurant_phone": "(212) 862-0104",
+            "restaurant_website": "https://restaurants.subway.com/united-states/ny/new-york/563-lenox-street?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=42945&utm_campaign=evergreen-2020&y_source=1_MTQ5MDc0NjYtNzA4L",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081660073939400,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "563 Lenox Street",
+                "formatted": "563 Lenox Street New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.8166,
+                "lon": -73.9394
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:03:50.701Z"
+        },
+        {
+            "restaurant_name": "Pizza Stop",
+            "restaurant_phone": "(212) 234-3131",
+            "restaurant_website": "",
+            "hours": "Sat-Wed: 11am-10pm Thu-Fri: 11am-11pm ",
+            "price_range": "$$$$",
+            "price_range_num": 4,
+            "restaurant_id": 4081527873940316,
+            "cuisines": [
+                "Italian",
+                "Pizza"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "531 Malcolm X Blvd",
+                "formatted": "531 Malcolm X Blvd New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.815278,
+                "lon": -73.940316
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T00:58:42.783Z"
+        },
+        {
+            "restaurant_name": "Mega Deli Food Center",
+            "restaurant_phone": "(212) 926-2349",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4081598673946088,
+            "cuisines": [
+                "Deli Food",
+                "Latin American",
+                "Puerto Rican"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "266 W 135th St",
+                "formatted": "266 W 135th St New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.815986,
+                "lon": -73.946088
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T00:59:54.143Z"
+        },
+        {
+            "restaurant_name": "Uptown Slices",
+            "restaurant_phone": "(212) 283-7621",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4081608273946190,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "272 W 135th St",
+                "formatted": "272 W 135th St New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.816082,
+                "lon": -73.94619
+            },
+            "menus": [],
+            "last_updated": "2020-12-28T23:04:06.610Z"
+        },
+        {
+            "restaurant_name": "Presto Fresh Cafe",
+            "restaurant_phone": "(646) 922-8301",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081629473939382,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "559 Malcolm X Blvd",
+                "formatted": "559 Malcolm X Blvd New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.816294,
+                "lon": -73.939382
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:04:38.212Z"
+        },
+        {
+            "restaurant_name": "Crispy Bamboo Village",
+            "restaurant_phone": "(212) 694-5391",
+            "restaurant_website": "",
+            "hours": "Mon-Thu: 11am-12am Fri-Sat: 11am-1am Sun: 12pm-12am",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4081614273946390,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2526 Frederick Douglass Blvd",
+                "formatted": "2526 Frederick Douglass Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.816142,
+                "lon": -73.94639
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T00:59:54.254Z"
+        },
+        {
+            "restaurant_name": "Shrine",
+            "restaurant_phone": "(212) 690-7807",
+            "restaurant_website": "",
+            "hours": "Daily: 4pm-4am ",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4081448273944284,
+            "cuisines": [
+                "African",
+                "Eclectic & International"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2271 Adam Clayton Powell Jr Blvd",
+                "formatted": "2271 Adam Clayton Powell Jr Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.814482,
+                "lon": -73.944284
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T00:59:52.197Z"
+        },
+        {
+            "restaurant_name": "A Taste of Seafood Express",
+            "restaurant_phone": "(646) 796-0275",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081650973946559,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10035",
+                "street": "2530 Frederick Douglas Blvd",
+                "formatted": "2530 Frederick Douglas Blvd New York, NY 10035"
+            },
+            "geo": {
+                "lat": 40.816509,
+                "lon": -73.946559
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:00:56.043Z"
+        },
+        {
+            "restaurant_name": "Jahlookova",
+            "restaurant_phone": "(646) 823-9050",
+            "restaurant_website": "http:///ny/new-york/577686-jahlookova/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081691773946648,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2531 Frederick Douglass Blvd",
+                "formatted": "2531 Frederick Douglass Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.816917,
+                "lon": -73.946648
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:03:49.365Z"
+        },
+        {
+            "restaurant_name": "Exquisite Grill Deli",
+            "restaurant_phone": "(212) 837-8385",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081487873940419,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10035",
+                "street": "521 Lenox Ave",
+                "formatted": "521 Lenox Ave New York, NY 10035"
+            },
+            "geo": {
+                "lat": 40.814878,
+                "lon": -73.940419
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:00:56.717Z"
+        },
+        {
+            "restaurant_name": "Quiznos Sub",
+            "restaurant_phone": "(212) 926-7849",
+            "restaurant_website": "http://www.quiznos.com/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081639173946628,
+            "cuisines": [
+                "American",
+                "Sandwiches",
+                "Wraps"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2530 Frederick Douglass Blvd",
+                "formatted": "2530 Frederick Douglass Blvd NEW YORK, NY 10030"
+            },
+            "geo": {
+                "lat": 40.816391,
+                "lon": -73.946628
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:16.773Z"
+        },
+        {
+            "restaurant_name": "King Barka Jamaican and American Restaurant",
+            "restaurant_phone": "(646) 952-0394",
+            "restaurant_website": "http:///ny/new-york/581362-king-barka-jamaican-and-american-restaurant/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081678873946770,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "301 W 135th St",
+                "formatted": "301 W 135th St New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.816788,
+                "lon": -73.94677
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:03:50.012Z"
+        },
+        {
+            "restaurant_name": "Tower Cafe",
+            "restaurant_phone": "(212) 939-4521",
+            "restaurant_website": "",
+            "hours": "Mon-Fri: 6am-8pm Sat-Sun: 7am-4pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4081476473940295,
+            "cuisines": [
+                "Diner"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "506 Lenox Ave",
+                "formatted": "506 Lenox Ave New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.814764,
+                "lon": -73.940295
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T00:59:54.135Z"
+        },
+        {
+            "restaurant_name": "Yatenga French Bistro & Bar",
+            "restaurant_phone": "(212) 690-0699",
+            "restaurant_website": "",
+            "hours": "Dinner Sun-Thu: 4pm-1am Fri-Sat: 4pm-2am Brunch Sat-Sun: 10am-3pm",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4081419573944044,
+            "cuisines": [
+                "Bistro",
+                "French"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2269 Adam Clayton Powell Jr Blvd",
+                "formatted": "2269 Adam Clayton Powell Jr Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.814195,
+                "lon": -73.944044
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:57:44.857Z"
+        },
+        {
+            "restaurant_name": "King's Chef",
+            "restaurant_phone": "(212) 281-6688",
+            "restaurant_website": "",
+            "hours": "Mon-Thu: 11:30am-12am Fri-Sat: 11:30am-1am Sun: 12pm-11:30pm",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081709773938767,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "587 Lenox Ave",
+                "formatted": "587 Lenox Ave New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.817097,
+                "lon": -73.938767
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:11.609Z"
+        },
+        {
+            "restaurant_name": "Nabe Underground",
+            "restaurant_phone": "(347) 719-0161",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4082013573943919,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10027",
+                "street": "2367 Frederick Douglass Blvd",
+                "formatted": "2367 Frederick Douglass Blvd New York, NY 10027"
+            },
+            "geo": {
+                "lat": 40.820135,
+                "lon": -73.943919
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:04:05.835Z"
+        },
+        {
+            "restaurant_name": "Africa Kine Restaurant",
+            "restaurant_phone": "(212) 666-9400",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081423173944370,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10027",
+                "street": "2267 7th Ave",
+                "formatted": "2267 7th Ave New York, NY 10027"
+            },
+            "geo": {
+                "lat": 40.814231,
+                "lon": -73.94437
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:00:56.196Z"
+        },
+        {
+            "restaurant_name": "El Valle Restaurant",
+            "restaurant_phone": "(646) 344-1475",
+            "restaurant_website": "http:///ny/new-york/524149-el-valle-restaurant/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081698273938644,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "588 Lenox Ave",
+                "formatted": "588 Lenox Ave New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.816982,
+                "lon": -73.938644
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:05:52.351Z"
+        },
+        {
+            "restaurant_name": "Don Rico Pollo",
+            "restaurant_phone": "(646) 692-9798",
+            "restaurant_website": "",
+            "hours": "Daily: 7am-12am",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4081704773938622,
+            "cuisines": [
+                "Latin American",
+                "Puerto Rican"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "588 Malcolm X Blvd",
+                "formatted": "588 Malcolm X Blvd New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.817047,
+                "lon": -73.938622
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:03:23.308Z"
+        },
+        {
+            "restaurant_name": "Subway",
+            "restaurant_phone": "(212) 283-7526",
+            "restaurant_website": "https://restaurants.subway.com/united-states/ny/new-york/300-west-135th-street?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=40609&utm_campaign=evergreen-2020&y_source=1_MTQ4OTYwMTkt",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081660073947300,
+            "cuisines": [
+                "Sandwiches"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "300 West 135th Street",
+                "formatted": "300 West 135th Street New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.8166,
+                "lon": -73.9473
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:05:54.351Z"
+        },
+        {
+            "restaurant_name": "Palomino Halal",
+            "restaurant_phone": "(646) 431-7544",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081408573940767,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "500 Lenox Ave",
+                "formatted": "500 Lenox Ave New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.814085,
+                "lon": -73.940767
+            },
+            "menus": [],
+            "last_updated": "2020-12-28T23:04:03.344Z"
+        },
+        {
+            "restaurant_name": "Cari Wine Bar & Restaurant",
+            "restaurant_phone": "(646) 869-3927",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4082064373943932,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2647 Frederick Douglas Blvd",
+                "formatted": "2647 Frederick Douglas Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.820643,
+                "lon": -73.943932
+            },
+            "menus": [],
+            "last_updated": "2020-12-28T23:04:04.448Z"
+        },
+        {
+            "restaurant_name": "Mama Tina's Pizzeria",
+            "restaurant_phone": "(212) 368-2820",
+            "restaurant_website": "http://mamatinaspizza-newyork.com",
+            "hours": "Daily: 11am-11pm",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4082070373943888,
+            "cuisines": [
+                "Italian",
+                "Pizza"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2649 Frederick Douglas Blvd",
+                "formatted": "2649 Frederick Douglas Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.820703,
+                "lon": -73.943888
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:53:30.952Z"
+        },
+        {
+            "restaurant_name": "The Edge",
+            "restaurant_phone": "(212) 939-9688",
+            "restaurant_website": "http://www.edgecafeharlem.com",
+            "hours": "Mon-Wed: 8am-10pm Thu-Fri: 8am-11pm Sat: 10am-11pm Sun: 10am-10pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4081985873946098,
+            "cuisines": [
+                "Coffee & Tea"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "101 Edgecombe Ave",
+                "formatted": "101 Edgecombe Ave New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.819858,
+                "lon": -73.946098
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:04:01.689Z"
+        },
+        {
+            "restaurant_name": "Manna's",
+            "restaurant_phone": "(212) 234-4488",
+            "restaurant_website": "http://www.soulfood.com",
+            "hours": "Mon-Sat: 11am-9pm Sun: 11am-8pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4081370573941065,
+            "cuisines": [
+                "Caribbean",
+                "Soul Food"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "486 Lenox Ave",
+                "formatted": "486 Lenox Ave New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.813705,
+                "lon": -73.941065
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:03:57.768Z"
+        },
+        {
+            "restaurant_name": "Ma Dukes Manhattan Island Seafood",
+            "restaurant_phone": "(646) 360-2239",
+            "restaurant_website": "",
+            "hours": "Mon-Tue: 11am-8pm Wed-Sat: 11am-10pm",
+            "price_range": "$$$",
+            "price_range_num": 3,
+            "restaurant_id": 4081523773947038,
+            "cuisines": [
+                "Seafood",
+                "Soul Food"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10027",
+                "street": "2492 Frederick Douglass Blvd",
+                "formatted": "2492 Frederick Douglass Blvd New York, NY 10027"
+            },
+            "geo": {
+                "lat": 40.815237,
+                "lon": -73.947038
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:03:23.666Z"
+        },
+        {
+            "restaurant_name": "477 food corp",
+            "restaurant_phone": "(212) 491-3750",
+            "restaurant_website": "http:///ny/new-york/671788-477-food-corp/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081347473941722,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "477 Lenox Ave",
+                "formatted": "477 Lenox Ave New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.813474,
+                "lon": -73.941722
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:10:42.615Z"
+        },
+        {
+            "restaurant_name": "Johnny Kaks International",
+            "restaurant_phone": "(212) 234-1156",
+            "restaurant_website": "http:///ny/new-york/585208-johnny-kaks-international/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4082006873939735,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2453 Adam Clayton Powell Jr Blvd",
+                "formatted": "2453 Adam Clayton Powell Jr Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.820068,
+                "lon": -73.939735
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:03:50.924Z"
+        },
+        {
+            "restaurant_name": "Soul Ramen",
+            "restaurant_phone": "(201) 234-4428",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081358773941124,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10036",
+                "street": "486 Lenox Ave",
+                "formatted": "486 Lenox Ave New York, NY 10036"
+            },
+            "geo": {
+                "lat": 40.813587,
+                "lon": -73.941124
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:00:54.183Z"
+        },
+        {
+            "restaurant_name": "88 Chinese Restaurant",
+            "restaurant_phone": "(212) 281-1288",
+            "restaurant_website": "",
+            "hours": "Daily: 11am-11pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4081340573941909,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "473 Lenox Ave",
+                "formatted": "473 Lenox Ave New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.813405,
+                "lon": -73.941909
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:11.472Z"
+        },
+        {
+            "restaurant_name": "Texas Chicken and Burgers",
+            "restaurant_phone": "(917) 475-1715",
+            "restaurant_website": "http://www.texaschickenandburgers.com",
+            "hours": "",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4081325073941840,
+            "cuisines": [
+                "Southern"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "471 Lenox Ave",
+                "formatted": "471 Lenox Ave New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.81325,
+                "lon": -73.94184
+            },
+            "menus": [],
+            "last_updated": "2020-12-28T23:04:00.547Z"
+        },
+        {
+            "restaurant_name": "Texas Chicken and Burgers",
+            "restaurant_phone": "(917) 475-1715",
+            "restaurant_website": "http:///ny/new-york/586586-texas-chicken-and-burgers/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081324873941834,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "471 Malcolm X Blvd",
+                "formatted": "471 Malcolm X Blvd New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.813248,
+                "lon": -73.941834
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:03:51.325Z"
+        },
+        {
+            "restaurant_name": "Queen Sheeba",
+            "restaurant_phone": "(212) 862-6149",
+            "restaurant_website": "",
+            "hours": "Daily: 10am-10pm",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4082084373944748,
+            "cuisines": [
+                "Middle Eastern"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "317 W 141st St",
+                "formatted": "317 W 141st St New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.820843,
+                "lon": -73.944748
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:58:24.916Z"
+        },
+        {
+            "restaurant_name": "StrictlyRoots Vegan Roti & Juices",
+            "restaurant_phone": "(212) 234-4488",
+            "restaurant_website": "http:///ny/new-york/548202-strictly-roots-vegan-roti-juices/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081335873940994,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "486 Lenox Ave",
+                "formatted": "486 Lenox Ave New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.813358,
+                "lon": -73.940994
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:06:13.774Z"
+        },
+        {
+            "restaurant_name": "Renaissance Harlem",
+            "restaurant_phone": "(646) 838-7904",
+            "restaurant_website": "http:///ny/new-york/536981-renaissance-harlem/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081334073944672,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2245 Adam Clayton Powell Jr Blvd",
+                "formatted": "2245 Adam Clayton Powell Jr Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.81334,
+                "lon": -73.944672
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:06:10.836Z"
+        },
+        {
+            "restaurant_name": "Break Juicery",
+            "restaurant_phone": "(646) 892-3034",
+            "restaurant_website": "http:///ny/new-york/592841-break-juicery/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4082098073944771,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "132 Edgecombe Ave",
+                "formatted": "132 Edgecombe Ave New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.82098,
+                "lon": -73.944771
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:03:53.289Z"
+        },
+        {
+            "restaurant_name": "Wat's On Your Plate 2",
+            "restaurant_phone": "(646) 767-9355",
+            "restaurant_website": "http:///ny/new-york/627489-wats-on-your-plate-2/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081873773937813,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "641 Malcolm X Blvd",
+                "formatted": "641 Malcolm X Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.818737,
+                "lon": -73.937813
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:04:48.584Z"
+        },
+        {
+            "restaurant_name": "Yummy foods center",
+            "restaurant_phone": "(917) 261-5757",
+            "restaurant_website": "http:///ny/new-york/717226-yummy-foods-center/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081342773945405,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10027",
+                "street": "2240 Adam Clayton Powell Jr Blvd",
+                "formatted": "2240 Adam Clayton Powell Jr Blvd New York, NY 10027"
+            },
+            "geo": {
+                "lat": 40.813427,
+                "lon": -73.945405
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:05:57.123Z"
+        },
+        {
+            "restaurant_name": "Great Wall Kitchen",
+            "restaurant_phone": "(212) 234-8086",
+            "restaurant_website": "",
+            "hours": "Mon-Thu: 11am-11:30pm Fri-Sat: 11am-12:30am Sun: 12pm-11pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4081339173945551,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10027",
+                "street": "2238 7th Ave",
+                "formatted": "2238 7th Ave New York, NY 10027"
+            },
+            "geo": {
+                "lat": 40.813391,
+                "lon": -73.945551
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:04:01.155Z"
+        },
+        {
+            "restaurant_name": "Hexagon Lounge",
+            "restaurant_phone": "(646) 838-6500",
+            "restaurant_website": "http:///ny/new-york/572420-hexagon-lounge/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4082124073944428,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "318 W 142nd St",
+                "formatted": "318 W 142nd St New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.82124,
+                "lon": -73.944428
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:03:47.990Z"
+        },
+        {
+            "restaurant_name": "J. Restaurant Chez Asta",
+            "restaurant_phone": "(212) 862-3663",
+            "restaurant_website": "",
+            "hours": "Daily: 8am-11am+12pm-12am",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4081517273947931,
+            "cuisines": [
+                "African"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10027",
+                "street": "2479 Frederick Douglass Blvd",
+                "formatted": "2479 Frederick Douglass Blvd New York, NY 10027"
+            },
+            "geo": {
+                "lat": 40.815172,
+                "lon": -73.947931
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:58:28.968Z"
+        },
+        {
+            "restaurant_name": "Manhattanville Coffee",
+            "restaurant_phone": "(646) 781-9900",
+            "restaurant_website": "http://www.manhattanvilleny.com",
+            "hours": "Mon-Fri: 7am-8pm Sat-Sun: 8am-8pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4082128873944493,
+            "cuisines": [
+                "Coffee & Tea"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "142 Edgecombe Ave",
+                "formatted": "142 Edgecombe Ave New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.821288,
+                "lon": -73.944493
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:03:59.665Z"
+        },
+        {
+            "restaurant_name": "Harlem Karibe Takeout",
+            "restaurant_phone": "(212) 283-5335",
+            "restaurant_website": "",
+            "hours": "Mon-Fri: 9am-7pm Sat-Sun: 9am-8pm",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4081326773945527,
+            "cuisines": [
+                "Haitian"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10027",
+                "street": "2234 Adam Clayton Powell Jr Blvd",
+                "formatted": "2234 Adam Clayton Powell Jr Blvd New York, NY 10027"
+            },
+            "geo": {
+                "lat": 40.813267,
+                "lon": -73.945527
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:59:14.823Z"
+        },
+        {
+            "restaurant_name": "Healthy Deli Corp.",
+            "restaurant_phone": "(917) 675-6711",
+            "restaurant_website": "http:///ny/new-york/579071-healthy-deli-corp/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4082104573945793,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "332 W 141st St",
+                "formatted": "332 W 141st St New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.821045,
+                "lon": -73.945793
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:03:49.679Z"
+        },
+        {
+            "restaurant_name": "Golden Krust Caribbean",
+            "restaurant_phone": "(212) 283-5933",
+            "restaurant_website": "http:///ny/new-york/525359-golden-krust-caribbean/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081266973941817,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "456 Malcolm X Blvd",
+                "formatted": "456 Malcolm X Blvd New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.812669,
+                "lon": -73.941817
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:05:52.414Z"
+        },
+        {
+            "restaurant_name": "Chung Lan Garden",
+            "restaurant_phone": "(212) 281-4188",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4081265273941866,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "454 Malcolm X Blvd",
+                "formatted": "454 Malcolm X Blvd NEW YORK, NY 10037"
+            },
+            "geo": {
+                "lat": 40.812652,
+                "lon": -73.941866
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:11.501Z"
+        },
+        {
+            "restaurant_name": "China Wok",
+            "restaurant_phone": "(212) 281-4188",
+            "restaurant_website": "",
+            "hours": "Mon-Thu: 11am-11:30pm Fri-Sat: 11am-12:30am Sun: 12pm-11:30pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4081261873941830,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "454 Lenox Ave",
+                "formatted": "454 Lenox Ave New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.812618,
+                "lon": -73.94183
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T00:59:54.272Z"
+        },
+        {
+            "restaurant_name": "Jacob Restaurant",
+            "restaurant_phone": "(212) 283-3663",
+            "restaurant_website": "http://www.jacobrestaurant.com/",
+            "hours": "",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4082176273943045,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2695 Frederick Douglass Boulevard",
+                "formatted": "2695 Frederick Douglass Boulevard New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.821762,
+                "lon": -73.943045
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:03:25.567Z"
+        },
+        {
+            "restaurant_name": "Grini's Grill Restaurant & Lunch Bar",
+            "restaurant_phone": "(212) 694-6274",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081917873937262,
+            "cuisines": [
+                "American",
+                "Diner"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "100 W 143rd St",
+                "formatted": "100 W 143rd St NEW YORK, NY 10030"
+            },
+            "geo": {
+                "lat": 40.819178,
+                "lon": -73.937262
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:11.529Z"
+        },
+        {
+            "restaurant_name": "McDonald's",
+            "restaurant_phone": "",
+            "restaurant_website": "http://www.mcdonalds.com",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081239573941596,
+            "cuisines": [
+                "American",
+                "Burgers"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "444 Malcolm X Blvd",
+                "formatted": "444 Malcolm X Blvd NEW YORK, NY 10037"
+            },
+            "geo": {
+                "lat": 40.812395,
+                "lon": -73.941596
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:47:22.618Z"
+        },
+        {
+            "restaurant_name": "McDonald's",
+            "restaurant_phone": "(212) 283-7798",
+            "restaurant_website": "http:///ny/new-york/621422-mcdonalds/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081223373941788,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "444 Lenox Ave",
+                "formatted": "444 Lenox Ave New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.812233,
+                "lon": -73.941788
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:04:46.515Z"
+        },
+        {
+            "restaurant_name": "Ho Lee",
+            "restaurant_phone": "(212) 283-8699",
+            "restaurant_website": "",
+            "hours": "Mon-Thu: 11am-12am Fri-Sat: 11am-1am Sun: 12pm-12am",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4082119073938988,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2493 Adam Clayton Powell Jr Blvd",
+                "formatted": "2493 Adam Clayton Powell Jr Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.82119,
+                "lon": -73.938988
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:11.658Z"
+        },
+        {
+            "restaurant_name": "Evergreen Organic Food & Deli",
+            "restaurant_phone": "(212) 690-1300",
+            "restaurant_website": "http:///ny/new-york/533056-evergreen-organic-food-deli/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4082215273942818,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2709 Frederick Douglass Blvd",
+                "formatted": "2709 Frederick Douglass Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.822152,
+                "lon": -73.942818
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:05:54.688Z"
+        },
+        {
+            "restaurant_name": "Lighthouse Fish Market & Restaurant",
+            "restaurant_phone": "(212) 203-2241",
+            "restaurant_website": "",
+            "hours": "Mon-Wed: 11am-10pm Thu-Sat: 11am-12am Sun: 11am-7pm",
+            "price_range": "$$$",
+            "price_range_num": 3,
+            "restaurant_id": 4081420073948233,
+            "cuisines": [
+                "Fish & Chips",
+                "Seafood",
+                "Wings"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10027",
+                "street": "2451 Frederick Douglas Blvd",
+                "formatted": "2451 Frederick Douglas Blvd New York, NY 10027"
+            },
+            "geo": {
+                "lat": 40.8142,
+                "lon": -73.948233
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:03:21.723Z"
+        },
+        {
+            "restaurant_name": "Little Ochie",
+            "restaurant_phone": "(212) 234-6300",
+            "restaurant_website": "http:///ny/new-york/592445-little-ochie/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4082148773939514,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2492 Adam Clayton Powell Jr Blvd",
+                "formatted": "2492 Adam Clayton Powell Jr Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.821487,
+                "lon": -73.939514
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:03:53.104Z"
+        },
+        {
+            "restaurant_name": "House Of Seafood Express 2",
+            "restaurant_phone": "(917) 261-7654",
+            "restaurant_website": "http:///ny/new-york/567388-house-of-seafood-express-2/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4082162173939545,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2496 Adam Clayton Powell Jr Blvd",
+                "formatted": "2496 Adam Clayton Powell Jr Blvd New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.821621,
+                "lon": -73.939545
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:03:45.773Z"
+        },
+        {
+            "restaurant_name": "House of Seafood Express",
+            "restaurant_phone": "(646) 484-5059",
+            "restaurant_website": "",
+            "hours": "Mon-Sat: 9am-10pm Sun: 9am-8pm",
+            "price_range": "$$$",
+            "price_range_num": 3,
+            "restaurant_id": 4081198473942737,
+            "cuisines": [
+                "Seafood"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "429 Lenox Ave",
+                "formatted": "429 Lenox Ave New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.811984,
+                "lon": -73.942737
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:03:24.634Z"
+        },
+        {
+            "restaurant_name": "Strength West Indian Restaurant",
+            "restaurant_phone": "(212) 862-5452",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081195873942888,
+            "cuisines": [
+                "Caribbean"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "429 Malcolm X Blvd",
+                "formatted": "429 Malcolm X Blvd NEW YORK, NY 10037"
+            },
+            "geo": {
+                "lat": 40.811958,
+                "lon": -73.942888
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:11.399Z"
+        },
+        {
+            "restaurant_name": "7th Heaven Gourmet Deli",
+            "restaurant_phone": "(212) 281-6541",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4082158773939253,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10030",
+                "street": "2496 7th Ave",
+                "formatted": "2496 7th Ave New York, NY 10030"
+            },
+            "geo": {
+                "lat": 40.821587,
+                "lon": -73.939253
+            },
+            "menus": [],
+            "last_updated": "2020-12-28T23:04:02.599Z"
+        },
+        {
+            "restaurant_name": "Yummy Foods Deli",
+            "restaurant_phone": "(917) 261-6839",
+            "restaurant_website": "http:///ny/new-york/569437-yummy-foods-deli/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081406473948540,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10027",
+                "street": "2445 Frederick Douglass Blvd",
+                "formatted": "2445 Frederick Douglass Blvd New York, NY 10027"
+            },
+            "geo": {
+                "lat": 40.814064,
+                "lon": -73.94854
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:03:46.410Z"
+        },
+        {
+            "restaurant_name": "Tio Luca Cocina & Vino Bar",
+            "restaurant_phone": "(212) 939-9305",
+            "restaurant_website": "",
+            "hours": "Dinner Tue-Sun: 4pm -11pm Brunch Sat-Sun: 11am-3pm",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4081181873943000,
+            "cuisines": [
+                "Alcohol",
+                "Latin American",
+                "Tapas"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10027",
+                "street": "421 Lenox Ave",
+                "formatted": "421 Lenox Ave New York, NY 10027"
+            },
+            "geo": {
+                "lat": 40.811818,
+                "lon": -73.943
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:58:31.915Z"
+        },
+        {
+            "restaurant_name": "lighthouse",
+            "restaurant_phone": "(929) 353-5330",
+            "restaurant_website": "http:///ny/new-york/632175-lighthouse/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081411773948669,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10027",
+                "street": "2451 8th Avenue",
+                "formatted": "2451 8th Avenue New York, NY 10027"
+            },
+            "geo": {
+                "lat": 40.814117,
+                "lon": -73.948669
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:10:40.025Z"
+        },
+        {
+            "restaurant_name": "Cafe Plus",
+            "restaurant_phone": "(646) 852-6400",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081424873936867,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "1 W 137th St",
+                "formatted": "1 W 137th St New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.814248,
+                "lon": -73.936867
+            },
+            "menus": [],
+            "last_updated": "2020-12-28T23:04:03.078Z"
+        },
+        {
+            "restaurant_name": "Lynx Caribbean kitchen",
+            "restaurant_phone": "(646) 852-6400",
+            "restaurant_website": "http:///ny/new-york/599882-lynx-caribbean-kitchen/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081424773936867,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "1 west 137 street",
+                "formatted": "1 west 137 street New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.814247,
+                "lon": -73.936867
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:03:55.083Z"
+        },
+        {
+            "restaurant_name": "Legends Lounge Seafood Cafe",
+            "restaurant_phone": "(917) 965-2003",
+            "restaurant_website": "http:///ny/new-york/608655-legends-lounge-seafood-cafe/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4081430173936737,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "2254 5th Ave",
+                "formatted": "2254 5th Ave New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.814301,
+                "lon": -73.936737
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:04:45.878Z"
+        },
+        {
+            "restaurant_name": "Baskin-Robbins",
+            "restaurant_phone": "(212) 234-3440",
+            "restaurant_website": "https://www.baskinrobbins.com?utm_source=Yext&utm_medium=organic&utm_campaign=Yext",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4082070073937400,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10039",
+                "street": "110 West 145th St",
+                "formatted": "110 West 145th St New York, NY 10039"
+            },
+            "geo": {
+                "lat": 40.8207,
+                "lon": -73.9374
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:03:46.254Z"
+        },
+        {
+            "restaurant_name": "Pinky's Jamaican and American Restaurant",
+            "restaurant_phone": "(646) 726-4952",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "$$",
+            "price_range_num": 2,
+            "restaurant_id": 4082222073940150,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10039",
+                "street": "219 W 145th St",
+                "formatted": "219 W 145th St New York, NY 10039"
+            },
+            "geo": {
+                "lat": 40.82222,
+                "lon": -73.94015
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:59:18.368Z"
+        },
+        {
+            "restaurant_name": "Sweet Mama's Soul Food",
+            "restaurant_phone": "(212) 939-9383",
+            "restaurant_website": "http:///ny/new-york/553520-sweet-mamas-soul-food/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4082017973936790,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "689 Malcolm X Blvd",
+                "formatted": "689 Malcolm X Blvd New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.820179,
+                "lon": -73.93679
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:06:15.226Z"
+        },
+        {
+            "restaurant_name": "King Garden",
+            "restaurant_phone": "(212) 862-8818",
+            "restaurant_website": "",
+            "hours": "Mon-Thu: 10:30am-11pm Fri-Sat: 10:30am-12am Sun: 11:30am-11pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4081407073936710,
+            "cuisines": [
+                "Chinese"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "1 W 137th St",
+                "formatted": "1 W 137th St New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.81407,
+                "lon": -73.93671
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T00:59:54.231Z"
+        },
+        {
+            "restaurant_name": "Sweet Mama's",
+            "restaurant_phone": "(212) 939-9383",
+            "restaurant_website": "",
+            "hours": "Daily: 8am-11pm",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4082008873936588,
+            "cuisines": [
+                "Soul Food"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "689 Lenox Ave",
+                "formatted": "689 Lenox Ave New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.820088,
+                "lon": -73.936588
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:03:59.110Z"
+        },
+        {
+            "restaurant_name": "Sugarhill Jumbo's Hamburger Palace",
+            "restaurant_phone": "(212) 491-5444",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4082264173941500,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10039",
+                "street": "274 W 145th St",
+                "formatted": "274 W 145th St New York, NY 10039"
+            },
+            "geo": {
+                "lat": 40.822641,
+                "lon": -73.9415
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T08:00:55.186Z"
+        },
+        {
+            "restaurant_name": "Jumbo Hamburgers Palace",
+            "restaurant_phone": "(212) 491-5444",
+            "restaurant_website": "",
+            "hours": "Mon-Sat: 7am-10pm Sun: 7am-8pm ",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4082265673941485,
+            "cuisines": [
+                "Burgers",
+                "Diner"
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10039",
+                "street": "274 W 145th St",
+                "formatted": "274 W 145th St New York, NY 10039"
+            },
+            "geo": {
+                "lat": 40.822656,
+                "lon": -73.941485
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:11.621Z"
+        },
+        {
+            "restaurant_name": "Chirping Chicken",
+            "restaurant_phone": "(718) 440-8700",
+            "restaurant_website": "http:///ny/new-york/548187-chirping-chicken/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4082234273940063,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10039",
+                "street": "219 W 145th St",
+                "formatted": "219 W 145th St New York, NY 10039"
+            },
+            "geo": {
+                "lat": 40.822342,
+                "lon": -73.940063
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:06:13.896Z"
+        },
+        {
+            "restaurant_name": "El Caldero Restaurant",
+            "restaurant_phone": "(646) 548-0860",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4082234373940049,
+            "cuisines": [
+                "Dominican"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10039",
+                "street": "219 W 145th St",
+                "formatted": "219 W 145th St NEW YORK, NY 10039"
+            },
+            "geo": {
+                "lat": 40.822343,
+                "lon": -73.940049
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:11.518Z"
+        },
+        {
+            "restaurant_name": "Island Salad",
+            "restaurant_phone": "(212) 234-1777",
+            "restaurant_website": "",
+            "hours": "",
+            "price_range": "$",
+            "price_range_num": 1,
+            "restaurant_id": 4081149073942286,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10037",
+                "street": "420 Lenox Ave",
+                "formatted": "420 Lenox Ave New York, NY 10037"
+            },
+            "geo": {
+                "lat": 40.81149,
+                "lon": -73.942286
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:03:23.361Z"
+        },
+        {
+            "restaurant_name": "Oklahoma Smoke",
+            "restaurant_phone": "(212) 862-5335",
+            "restaurant_website": "http://www.oklahomasmoke.com",
+            "hours": "Tues-Sun: 11am-11pm",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4082253173940443,
+            "cuisines": [
+                "American",
+                "Barbecue"
+            ],
+            "address": {
+                "city": "NEW YORK",
+                "state": "NY",
+                "postal_code": "10039",
+                "street": "231 W 145th St",
+                "formatted": "231 W 145th St NEW YORK, NY 10039"
+            },
+            "geo": {
+                "lat": 40.822531,
+                "lon": -73.940443
+            },
+            "menus": [],
+            "last_updated": "2021-01-05T07:48:11.568Z"
+        },
+        {
+            "restaurant_name": "Peque Tapas Bar & Restaurant",
+            "restaurant_phone": "(646) 678-4095",
+            "restaurant_website": "http:///ny/new-york/544747-peque-tapas-bar-restaurant/",
+            "hours": "",
+            "price_range": "",
+            "price_range_num": 0,
+            "restaurant_id": 4082256373940559,
+            "cuisines": [
+                ""
+            ],
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "10039",
+                "street": "231 W 145th St",
+                "formatted": "231 W 145th St New York, NY 10039"
+            },
+            "geo": {
+                "lat": 40.822563,
+                "lon": -73.940559
+            },
+            "menus": [],
+            "last_updated": "2020-12-29T01:06:13.360Z"
+        }
+    ],
+    "numResults": 100
+}
