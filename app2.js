@@ -3,7 +3,7 @@
 
 // json filen
 const url = "jsonFiles/NY100.json"
-const brooklynUrl = "jsonFiles/brooklyn.json"
+//const url = "jsonFiles/brooklyn.json"
 
 let inputBox = document.getElementById("cuisinesInput");
 const priceRangeDiv = document.getElementById("priceRangeDiv");
@@ -77,126 +77,8 @@ submitBtn.addEventListener("click", function (e) {
     cuisineFilteredList = [];
     inputSearch = [];
 
-    // $ knapparna fungerar och kan filtrera med en eller flera alternativ
-    // få till dom i en mindre funktion? kalla på en funktion som ligger utanför denna? 
-
-    // function priceCheck() {
-
-    //     if (priceOneBtn.className === "activeBtn") {
-    //         let priceOneList = restaurantData.filter((restaurant) => {
-    //             return restaurant.price_range.length === 1;
-    //         })
-    //         searchResult = [...searchResult, ...priceOneList];
-
-    //         priceOneBtn.classList.remove("activeBtn");
-
-    //     };
-    //     if (priceTwoBtn.className === "activeBtn") {
-    //         let priceTwoList = restaurantData.filter((restaurant) => {
-    //             return restaurant.price_range.length === 2;
-    //         })
-    //         searchResult = [...searchResult, ...priceTwoList];
-
-    //         priceTwoBtn.classList.remove("activeBtn");
-
-    //     };
-    //     if (priceThreeBtn.className === "activeBtn") {
-    //         let priceThreeList = restaurantData.filter((restaurant) => {
-    //             return restaurant.price_range.length === 3;
-    //         })
-    //         searchResult = [...searchResult, ...priceThreeList];
-
-    //         priceThreeBtn.classList.remove("activeBtn");
-
-    //     };
-    //     if (priceFourBtn.className === "activeBtn") {
-    //         let priceFourList = restaurantData.filter((restaurant) => {
-    //             return restaurant.price_range.length === 4;
-    //         })
-    //         searchResult = [...searchResult, ...priceFourList];
-
-    //         priceFourBtn.classList.remove("activeBtn");
-
-    //     };
-
-    //     return searchResult;
-
-    // }
-
-    // function cuisinecheck() {
-
-    //     priceCheck()
-
-    //     if (searchResult.length >= 1) {
-
-    //         //console.log("activeBtnCuisine[0].value: ", activeBtnCuisine[0].value)
-    //         //console.log(searchResult[0])
-    //         let cuisineFilters = searchResult.filter((restaurant) => {
-    //             return restaurant.cuisines.includes(activeBtnCuisine[0].value);
-    //         });
-
-    //         let cuisineBtnClass = document.getElementsByClassName("activeBtnCuisine");
-    //         [].forEach.call(cuisineBtnClass, function (e) {
-    //             e.classList.remove("activeBtnCuisine");
-    //         });
-    //         //activeBtnCuisine[0].className.remove(activeBtnCuisine)
-
-    //         //console.log("cuisineFilters: ", cuisineFilters)
-    //         cuisineFilteredList = [...cuisineFilteredList, ...cuisineFilters];
-    //     }
-
-    //     return cuisineFilteredList;
-    // }
-
     cuisinecheck();
-
-    // if (searchResult.length >= 1) {
-
-    //     //console.log("activeBtnCuisine[0].value: ", activeBtnCuisine[0].value)
-    //     //console.log(searchResult[0])
-    //     let cuisineFilters = searchResult.filter((restaurant) => {
-    //         return restaurant.cuisines.includes(activeBtnCuisine[0].value);
-    //     });
-
-    //     let cuisineBtnClass = document.getElementsByClassName("activeBtnCuisine");
-    //     [].forEach.call(cuisineBtnClass, function(e) {
-    //         e.classList.remove("activeBtnCuisine");
-    //     });
-    //     //activeBtnCuisine[0].className.remove(activeBtnCuisine)
-
-    //     //console.log("cuisineFilters: ", cuisineFilters)
-    //     cuisineFilteredList = [...cuisineFilteredList, ...cuisineFilters];
-    // }
-
-    // inputfältets filter efter cuisine..kolla på autocomplete hur det funkar.
-    // vill söka på restaurangnamn och cuisine
-    // kanske ha en funktion utanför man kallar på som kollar om innehållet i inputBox matchar cuisine &/ restName?
-
-    
-
-        if (inputBox.value.length > 1) {
-            let cuisineSearch = restaurantData.filter((restaurant) => {
-                return restaurant.cuisines.find(cuisine => cuisine.includes(inputBox.value));
-            });
-            // let nameSearch = restaurantData.filter((restaurant) => {
-            //     return restaurant.restaurant_name.find(name => name.includes(inputBox.value));
-            // });
-            //console.log("namesearch: ", nameSearch)
-            inputSearch = [...inputSearch, ...cuisineSearch];
-        }
-        
-    
-
-    // if (inputBox.value.length > 1) {
-    //     let cuisineSearch = restaurantData.filter((restaurant) => {
-    //         return restaurant.cuisines.find(cuisine => cuisine.includes(inputBox.value));
-    //     });
-    //     // let nameSearch = restaurantData.filter((restaurant) => {
-    //     //     return restaurant.restaurant_name.find(name => name.includes(inputBox.value));
-    //     // });
-    //     //console.log("namesearch: ", nameSearch)
-    //     inputSearch = [...inputSearch, ...cuisineSearch];
-    // }
+    checkInput();
 
     // mappar igenom searchResult och kör funktionen createElement 
 
@@ -219,8 +101,6 @@ submitBtn.addEventListener("click", function (e) {
         // fixa funktion som skriver ut att det inte finns några restauranger och skriv ut kanske vad man sökt efter? 
         // css: man kan markera hela diven rosa, skriv .activeBtn button för att slippa det i CSS
     }
-
-
 
 })
 
@@ -279,10 +159,17 @@ function cuisinecheck() {
             return restaurant.cuisines.includes(activeBtnCuisine[0].value);
         });
 
-        let cuisineBtnClass = document.getElementsByClassName("activeBtnCuisine");
-        [].forEach.call(cuisineBtnClass, function (e) {
-            e.classList.remove("activeBtnCuisine");
-        });
+        // let cuisineBtnClass = document.getElementsByClassName("activeBtnCuisine");
+        // [].forEach.call(cuisineBtnClass, function (e) {
+        //     e.classList.remove("activeBtnCuisine");
+        // });
+        var allElements = document.querySelectorAll(".activeBtnCuisine");
+        for (i = 0; i < allElements.length; i++) {
+            console.log(allElements.length)
+            allElements[i].classList.remove('activeBtnCuisine');
+            console.log(allElements.length)
+        }
+
         //activeBtnCuisine[0].className.remove(activeBtnCuisine)
 
         //console.log("cuisineFilters: ", cuisineFilters)
@@ -290,6 +177,30 @@ function cuisinecheck() {
     }
 
     return cuisineFilteredList;
+}
+
+function checkInput() {
+
+    if (inputBox.value.length > 1) {
+
+        // få till toLowerCase() på cuisin
+        let cuisineSearch = restaurantData.filter((restaurant) => {
+            return restaurant.cuisines.find(cuisine => cuisine.includes(inputBox.value));
+        });
+
+        let nameSearch = restaurantData.filter((restaurant) => {
+            return restaurant.restaurant_name.toLowerCase().includes(inputBox.value.toLowerCase());
+        });
+        console.log(nameSearch);
+
+
+        // let nameSearch = restaurantData.filter((restaurant) => {
+        //     return restaurant.restaurant_name.find(name => name.includes(inputBox.value));
+        // });
+        //console.log("namesearch: ", nameSearch)
+        inputSearch = [...inputSearch, ...cuisineSearch, ...nameSearch];
+    }
+    return inputSearch;
 }
 
 // eventlyssnare för varje $ knapp som togglar activeBtn classen
@@ -374,10 +285,47 @@ function createElement(element) {
         div.appendChild(restaurantWebsite);
     }
 
+    let pic = document.createElement("image");
+    pic.innerHTML = getImg();
+    div.appendChild(pic);
+
+
     // adding to result div
     result.appendChild(div);
 
 }
+
+function getImg() {
+
+    let images = [];
+
+    const pic1 = '<img src="http://source.unsplash.com/90x90/?pizza" alt="pizza">';
+    const pic2 = '<img src="http://source.unsplash.com/90x0/?burger" alt="burger">';
+    const pic3 = '<img src="http://source.unsplash.com/90x90/?pasta" alt="pasta">';
+    const pic4 = '<img src="http://source.unsplash.com/90x90/?noodels" alt="noodels">';
+    const pic5 = '<img src="http://source.unsplash.com/90x90/?tapas" alt="tapas">';
+    const pic6 = '<img src="http://source.unsplash.com/90x90/?sushi" alt="sushi">';
+    const pic7 = '<img src="http://source.unsplash.com/90x90/?vegetables" alt="vegetables">';
+    const pic8 = '<img src="http://source.unsplash.com/90x90/?food" alt="food">';
+    const pic9 = '<img src="http://source.unsplash.com/90x90/?restaurant" alt="restaurant">';
+    const pic10 = '<img src="http://source.unsplash.com/90x90/?steak" alt="steak">';
+
+    images.push(pic1);
+    images.push(pic2);
+    images.push(pic3);
+    images.push(pic4);
+    images.push(pic5);
+    images.push(pic6);
+    images.push(pic7);
+    console.log(images);
+
+    let randomPic = Math.floor(Math.random() * images.length);
+    console.log(images[randomPic])
+    return images[randomPic];
+    
+}
+
+
 
 function errorMessage() {
 
