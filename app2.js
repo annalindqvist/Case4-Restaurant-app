@@ -4,13 +4,14 @@
 // json filen
 //const url = "jsonFiles/NY100.json"
 
-let url = "jsonFiles/NY100.json";
+let url; //= "jsonFiles/NY100.json";
 
 //url = "jsonFiles/brooklyn.json"
 //url = "jsonFiles/lowerManhattan.json"
-url = "jsonFiles/midtown.json";
+//url = "jsonFiles/midtown.json";
 
 let inputBox = document.getElementById("cuisinesInput");
+const searchBtn = document.getElementById("searchBtn");
 const priceRangeDiv = document.getElementById("priceRangeDiv");
 const priceOneBtn = document.getElementById("priceOne");
 const priceTwoBtn = document.getElementById("priceTwo");
@@ -19,9 +20,9 @@ const priceFourBtn = document.getElementById("priceFour");
 const submitBtn = document.getElementById("submitBtn")
 const result = document.getElementById("result");
 const cuisineChoise = document.getElementById("cuisineChoises");
+const allRest = document.getElementById("allRest");
 
 const homeBtn = document.getElementById("homeBtn")
-const allRest = document.getElementById("allRest");
 const newRest = document.getElementById("newRest");
 
 // distanceBtn
@@ -49,51 +50,68 @@ let inputSearch = [];
 
 //    e.preventDefault();
 
-//const selectCity = document.getElementById("city");
+const selectCity = document.getElementById("city");
 
 //får inte till detta..
-// selectCity.onchange = () => {
+selectCity.onchange = () => {
 
-//     if (selectCity.value === "newyork") {
-//         url = "jsonFiles/NY100.json";
-//         console.log("hej", url)
-//         return url;
-//     } else if (selectCity.value === "brooklyn") {
-//         url = "jsonFiles/brooklyn.json";
-//         console.log("hej", url)
-//         return url;
-//     } else if (selectCity.value === "lowerManhattan") {
-//         url = "jsonFiles/lowerManhattan.json";
-//         console.log("hej", url)
-//         return url;
-//     } else if (selectCity.value === "midtown") {
-//         url = "jsonFiles/midtown.json";
-//         console.log("hej", url)
-//         return url;
-//     }
-//     console.log(url)
+    if (selectCity.value === "newyork") {
+        url = "jsonFiles/NY100.json";
+        console.log("hej", url)
+        
+    } else if (selectCity.value === "brooklyn") {
+        url = "jsonFiles/brooklyn.json";
+        console.log("hej", url)
+        
+    } else if (selectCity.value === "lowerManhattan") {
+        url = "jsonFiles/lowerManhattan.json";
+        console.log("hej", url)
+        
+    } else if (selectCity.value === "midtown") {
+        url = "jsonFiles/midtown.json";
+        console.log("hej", url)
+        
+    }
+    console.log(url)
 
-// };
-// console.log(url)
+    fetch(url).then(function (response) {
+
+        if (!response.ok) {
+            throw Error("Error!");
+        }
+    
+        return response.json();
+    
+    }).then(function (data) {
+    
+        restaurantData = data.data;
+    
+    }).catch(function (error) {
+
+        console.log(error);
+
+    })
+};
+console.log(url)
 
 //url = "jsonFiles/lowerManhattan.json";
 
 
-fetch(url).then(function (response) {
+// fetch(url).then(function (response) {
 
-    if (!response.ok) {
-        throw Error("Error!");
-    }
+//     if (!response.ok) {
+//         throw Error("Error!");
+//     }
 
-    return response.json();
+//     return response.json();
 
-}).then(function (data) {
+// }).then(function (data) {
 
-    restaurantData = data.data;
+//     restaurantData = data.data;
 
-}).catch(function (error) {
-    console.log(error);
-});
+// }).catch(function (error) {
+//     console.log(error);
+// });
 
 
 
@@ -124,14 +142,17 @@ submitBtn.addEventListener("click", function (e) {
             createElement(restaurant)
 
         });
+        displayResult()
+        
     } else if (inputSearch.length >= 1) {
         inputSearch.map((restaurant) => {
 
             createElement(restaurant)
 
         });
+        displayResult()
+
     } else {
-        console.log("hej")
         errorMessage();
         // ONSDAG 9/2 att göra nedan + kolla variabelnamn osvosvosv...
         // fixa funktion som skriver ut att det inte finns några restauranger och skriv ut kanske vad man sökt efter? 
@@ -244,12 +265,6 @@ priceFourBtn.addEventListener("click", function () {
     priceFourBtn.classList.toggle("activeBtn")
 
 })
-// // ------------- DISTANCE BUTTONS -------------
-// distance.addEventListener("click", function (e) {
-
-//     e.target.classList.toggle("activeDistanceBtn")
-
-// })
 
 // ------------- CUISINE BUTTONS -------------
 cuisineChoise.addEventListener("click", function (e) {
@@ -258,34 +273,59 @@ cuisineChoise.addEventListener("click", function (e) {
 
 })
 
-// funktionen som skapar element + lägger in info om restaurangerna
+
+allRest.onclick = function (){
+
+    result.innerHTML = "";
+    searchResult = [];
+    cuisineFilteredList = [];
+    inputSearch = [];
+
+    restaurantData.map((restaurant) => {
+
+        createElement(restaurant)
+
+    });
+
+    displayResult()
+}
 
 function createElement(element) {
-
 
     let div = document.createElement("div");
     div.classList = "restResult";
 
+    let picDiv = document.createElement("div")
+
+    let pic = document.createElement("image");
+    pic.innerHTML = getImg();
+    picDiv.appendChild(pic);
+    div.appendChild(picDiv);
+
+    let textDiv = document.createElement("div");
+    textDiv.classList = "textDiv";
+    div.appendChild(textDiv);
+
     // restaurant name
     let restaurantName = document.createElement("h4");
     restaurantName.innerText = element.restaurant_name;
-    div.appendChild(restaurantName);
+    textDiv.appendChild(restaurantName);
 
     // cuisine
     let restaurantCuisine = document.createElement("p");
     restaurantCuisine.innerText = element.cuisines;
-    div.appendChild(restaurantCuisine);
+    textDiv.appendChild(restaurantCuisine);
 
     // price range
     let priceRange = document.createElement("p");
     priceRange.innerText = element.price_range;
-    div.appendChild(priceRange);
+    textDiv.appendChild(priceRange);
 
     // geo.. long & lat
     let geo = document.createElement("p");
     geo.innerText = calcCrow(element.geo.lat, element.geo.lon, latitudeInput.innerText, longitudeInput.innerText);
     geo.classList = "distanceClass";
-    div.appendChild(geo);
+    textDiv.appendChild(geo);
 
     //heart
     let heart = document.createElement("p");
@@ -301,13 +341,8 @@ function createElement(element) {
         restaurantWebsite.href = element.restaurant_website;
         restaurantWebsite.innerText = "Restaurants website";
         restaurantWebsite.setAttribute("target", "_blank");
-        div.appendChild(restaurantWebsite);
+        textDiv.appendChild(restaurantWebsite);
     }
-
-    let pic = document.createElement("image");
-    pic.innerHTML = getImg();
-    div.appendChild(pic);
-
 
     // adding to result div
     result.appendChild(div);
@@ -399,3 +434,19 @@ result.onclick = function (e) {
         e.target.firstElementChild.classList.toggle("fas");
     }
 };
+
+function displayResult() {
+    document.querySelector("form").style.display = "none";
+    document.querySelector("nav").style.display = "flex";
+}
+
+searchBtn.onclick = function() {
+
+    result.innerHTML = "";
+    searchResult = [];
+    cuisineFilteredList = [];
+    inputSearch = [];
+
+    document.querySelector("form").style.display = "block";
+    document.querySelector("nav").style.display = "none";
+}
