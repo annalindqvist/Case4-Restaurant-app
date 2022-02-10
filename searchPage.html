@@ -26,8 +26,23 @@
     </header>
 
     <main id="searchPage">
+        <!-- <select name="city" id="city">
+            <option value="newyork">New York</option>
+            <option value="brooklyn">Brooklyn</option>
+            <option value="lowerManhattan">Lower Manhattan</option>
+            <option value="midtown">Midtown</option>
+
+        </select> -->
 
         <form action="#">
+            <select name="city" id="city">
+                <option value="newyork">New York</option>
+                <option value="brooklyn">Brooklyn</option>
+                <option value="lowerManhattan">Lower Manhattan</option>
+                <option value="midtown">Midtown</option>
+    
+            </select>
+            
 
             <div>
                 <h4>Latitude</h4>
@@ -43,30 +58,30 @@
                 <h3>Or filter your search down here:</h3>
 
                 <div id="priceRange">
-                    <h4>Filter by price</h4>
+                    <h4>Filter by price (chose one or more)</h4>
                     <div>
-                        <button id="priceOne">$</button>
-                        <button id="priceTwo">$$</button>
-                        <button id="priceThree">$$$</button>
-                        <button id="priceFour">$$$$</button>
+                        <span id="priceOne">$</span>
+                        <span id="priceTwo">$$</span>
+                        <span id="priceThree">$$$</span>
+                        <span id="priceFour">$$$$</span>
                     </div>
                 </div>
 
                 <div id="cuisineChoises">
-                    <h4>Filter by cuisine</h4>
+                    <h4>Filter by cuisine (chose one)</h4>
                     <div id="cuisineChoise">
-                        <button id="chinese" value="Chinese">Chinese</button>
-                        <button id="american" value="American">American</button>
-                        <button id="italian" value="Italian">Italian</button>
-                        <button id="indian" value="Japanese">Japanese</button>
-                        <button id="indian" value="Korean">Korean</button>
-                        <button id="indian" value="French">French</button>
-                        <button id="indian" value="Indian">Indian</button>
+                        <span id="chinese" value="Chinese">Chinese</span>
+                        <span id="american" value="American">American</span>
+                        <span id="italian" value="Italian">Italian</span>
+                        <span id="japanese" value="Japanese">Japanese</span>
+                        <span id="korean" value="Korean">Korean</span>
+                        <span id="french" value="French">French</span>
+                        <span id="indian" value="Indian">Indian</span>
 
                     </div>
                 </div>
 
-                <div id="distanceBox">
+                <!-- <div id="distanceBox">
                     <h4>Filter by distance</h4>
                     <div id="distance">
                         <button id="" value="1.0km">up to 1km</button>
@@ -76,23 +91,23 @@
                         <button id="fourFive" value="5.0km">4km to 5km</button>
                         <button id="fiveOrMore" value="5.1km">5km and longer</button>
                     </div>
-                </div>
+                </div> -->
 
 
             </div>
             <input id="submitBtn" type="submit" value="Search">
-            <!--
-            <button id="submitBtn" type="submit"><a href="searchResult.html">Sök</a></button>
-            -->
+            
         </form>
         <form action="#"></form>
+
+         <!-- <button id="distanceSort">Sort by distance</button>  -->
 
         <div id="result"></div>
 
 
     </main>
 
-    <script src="app.js"></script>
+    <script src="app2.js"></script>
 </body>
 
 </html>
