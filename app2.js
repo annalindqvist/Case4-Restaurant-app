@@ -2,8 +2,13 @@
 // med denna länk: "https://api.documenu.com/v2/restaurants/state/NY?key=e85086501af955112390f6a87d0cb5c2";
 
 // json filen
-const url = "jsonFiles/NY100.json"
-//const url = "jsonFiles/brooklyn.json"
+//const url = "jsonFiles/NY100.json"
+
+let url = "jsonFiles/NY100.json";
+
+//url = "jsonFiles/brooklyn.json"
+//url = "jsonFiles/lowerManhattan.json"
+url = "jsonFiles/midtown.json";
 
 let inputBox = document.getElementById("cuisinesInput");
 const priceRangeDiv = document.getElementById("priceRangeDiv");
@@ -41,11 +46,37 @@ let inputSearch = [];
 // kolla på: ha fetch i en onclick/onsubmit/addeventlistner så den inte körs i onödan...
 // när man klickar på sök-knappen kanske? finns dock "två" sökknappar (sök nere i menyn och på homepage)
 
-const signIn = document.getElementById("signIn");
-
-//signIn.addEventListener("click", function(e) {
 
 //    e.preventDefault();
+
+//const selectCity = document.getElementById("city");
+
+//får inte till detta..
+// selectCity.onchange = () => {
+
+//     if (selectCity.value === "newyork") {
+//         url = "jsonFiles/NY100.json";
+//         console.log("hej", url)
+//         return url;
+//     } else if (selectCity.value === "brooklyn") {
+//         url = "jsonFiles/brooklyn.json";
+//         console.log("hej", url)
+//         return url;
+//     } else if (selectCity.value === "lowerManhattan") {
+//         url = "jsonFiles/lowerManhattan.json";
+//         console.log("hej", url)
+//         return url;
+//     } else if (selectCity.value === "midtown") {
+//         url = "jsonFiles/midtown.json";
+//         console.log("hej", url)
+//         return url;
+//     }
+//     console.log(url)
+
+// };
+// console.log(url)
+
+//url = "jsonFiles/lowerManhattan.json";
 
 
 fetch(url).then(function (response) {
@@ -59,9 +90,14 @@ fetch(url).then(function (response) {
 }).then(function (data) {
 
     restaurantData = data.data;
+
 }).catch(function (error) {
     console.log(error);
 });
+
+
+
+
 
 let cuisineFilteredList = [];
 
@@ -101,7 +137,6 @@ submitBtn.addEventListener("click", function (e) {
         // fixa funktion som skriver ut att det inte finns några restauranger och skriv ut kanske vad man sökt efter? 
         // css: man kan markera hela diven rosa, skriv .activeBtn button för att slippa det i CSS
     }
-
 })
 
 function priceCheck() {
@@ -144,7 +179,6 @@ function priceCheck() {
     };
 
     return searchResult;
-
 }
 
 function cuisinecheck() {
@@ -153,26 +187,17 @@ function cuisinecheck() {
 
     if (searchResult.length >= 1) {
 
-        //console.log("activeBtnCuisine[0].value: ", activeBtnCuisine[0].value)
-        //console.log(searchResult[0])
         let cuisineFilters = searchResult.filter((restaurant) => {
-            return restaurant.cuisines.includes(activeBtnCuisine[0].value);
+            return restaurant.cuisines.includes(activeBtnCuisine[0].innerText);
         });
 
-        // let cuisineBtnClass = document.getElementsByClassName("activeBtnCuisine");
-        // [].forEach.call(cuisineBtnClass, function (e) {
-        //     e.classList.remove("activeBtnCuisine");
-        // });
         var allElements = document.querySelectorAll(".activeBtnCuisine");
         for (i = 0; i < allElements.length; i++) {
-            console.log(allElements.length)
+
             allElements[i].classList.remove('activeBtnCuisine');
-            console.log(allElements.length)
+
         }
 
-        //activeBtnCuisine[0].className.remove(activeBtnCuisine)
-
-        //console.log("cuisineFilters: ", cuisineFilters)
         cuisineFilteredList = [...cuisineFilteredList, ...cuisineFilters];
     }
 
@@ -193,11 +218,6 @@ function checkInput() {
         });
         console.log(nameSearch);
 
-
-        // let nameSearch = restaurantData.filter((restaurant) => {
-        //     return restaurant.restaurant_name.find(name => name.includes(inputBox.value));
-        // });
-        //console.log("namesearch: ", nameSearch)
         inputSearch = [...inputSearch, ...cuisineSearch, ...nameSearch];
     }
     return inputSearch;
@@ -224,14 +244,12 @@ priceFourBtn.addEventListener("click", function () {
     priceFourBtn.classList.toggle("activeBtn")
 
 })
+// // ------------- DISTANCE BUTTONS -------------
+// distance.addEventListener("click", function (e) {
 
-// ------------- DISTANCE BUTTONS -------------
-distance.addEventListener("click", function (e) {
+//     e.target.classList.toggle("activeDistanceBtn")
 
-    e.target.classList.toggle("activeDistanceBtn")
-
-})
-
+// })
 
 // ------------- CUISINE BUTTONS -------------
 cuisineChoise.addEventListener("click", function (e) {
@@ -246,6 +264,7 @@ function createElement(element) {
 
 
     let div = document.createElement("div");
+    div.classList = "restResult";
 
     // restaurant name
     let restaurantName = document.createElement("h4");
@@ -293,22 +312,30 @@ function createElement(element) {
     // adding to result div
     result.appendChild(div);
 
+    return geo.innerText;
+
 }
 
 function getImg() {
 
     let images = [];
 
-    const pic1 = '<img src="http://source.unsplash.com/90x90/?pizza" alt="pizza">';
-    const pic2 = '<img src="http://source.unsplash.com/90x0/?burger" alt="burger">';
-    const pic3 = '<img src="http://source.unsplash.com/90x90/?pasta" alt="pasta">';
-    const pic4 = '<img src="http://source.unsplash.com/90x90/?noodels" alt="noodels">';
-    const pic5 = '<img src="http://source.unsplash.com/90x90/?tapas" alt="tapas">';
-    const pic6 = '<img src="http://source.unsplash.com/90x90/?sushi" alt="sushi">';
-    const pic7 = '<img src="http://source.unsplash.com/90x90/?vegetables" alt="vegetables">';
-    const pic8 = '<img src="http://source.unsplash.com/90x90/?food" alt="food">';
-    const pic9 = '<img src="http://source.unsplash.com/90x90/?restaurant" alt="restaurant">';
-    const pic10 = '<img src="http://source.unsplash.com/90x90/?steak" alt="steak">';
+    const pic1 = '<img src="images/tapas.webp" alt="tapas">';
+    const pic2 = '<img src="images/american.webp" alt="americanfood">';
+    const pic3 = '<img src="images/burger.webp" alt="burger">';
+    const pic4 = '<img src="images/chinese.webp" alt="chinesefood">';
+    const pic5 = '<img src="images/french.webp" alt="frenchfood">';
+    const pic6 = '<img src="images/indian.webp" alt="indianfood">';
+    const pic7 = '<img src="images/italian.webp" alt="italian">';
+    const pic8 = '<img src="images/japanese.webp" alt="japanesefood">';
+    const pic9 = '<img src="images/korean.webp" alt="koreanfood">';
+    const pic10 = '<img src="images/moroccan.webp" alt="moroccanfood">';
+    const pic11 = '<img src="images/pizza.webp" alt="pizza">';
+    const pic12 = '<img src="images/rest1.webp" alt="restaurant>';
+    const pic13 = '<img src="images/sandwiches.webp" alt="sandwiches">';
+    const pic14 = '<img src="images/spanish.png" alt="spanishfood">';
+    const pic15 = '<img src="images/steak.webp" alt="steak">';
+    const pic16 = '<img src="images/sushi.webp" alt="sushi">';
 
     images.push(pic1);
     images.push(pic2);
@@ -317,15 +344,20 @@ function getImg() {
     images.push(pic5);
     images.push(pic6);
     images.push(pic7);
-    console.log(images);
+    images.push(pic8);
+    images.push(pic9);
+    images.push(pic10);
+    images.push(pic11);
+    images.push(pic12);
+    images.push(pic13);
+    images.push(pic14);
+    images.push(pic15);
+    images.push(pic16);
 
     let randomPic = Math.floor(Math.random() * images.length);
-    console.log(images[randomPic])
     return images[randomPic];
-    
+
 }
-
-
 
 function errorMessage() {
 
@@ -337,8 +369,6 @@ function errorMessage() {
 
     result.appendChild(div);
 }
-
-
 
 // ---------- Distance func ----------
 //This function takes in latitude and longitude of two location and returns the distance between them as the crow flies (in km)
