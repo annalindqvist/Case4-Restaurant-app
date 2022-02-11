@@ -10,7 +10,7 @@ let url; //= "jsonFiles/NY100.json";
 //url = "jsonFiles/lowerManhattan.json"
 //url = "jsonFiles/midtown.json";
 
-let inputBox = document.getElementById("cuisinesInput");
+let inputBox = document.getElementById("input");
 const selectCity = document.getElementById("city");
 const searchBtn = document.getElementById("searchBtn");
 const priceRangeDiv = document.getElementById("priceRangeDiv");
@@ -25,7 +25,6 @@ const allRest = document.getElementById("allRest");
 
 const homeBtn = document.getElementById("homeBtn")
 const favoritesBtn = document.getElementById("favoritesBtn");
-
 
 // distanceBtn
 const distance = document.getElementById("distance");
@@ -127,6 +126,7 @@ submitBtn.addEventListener("click", function (e) {
         errorMessage();
         
     }
+    document.querySelector("form").reset();
 })
 
 function priceCheck() {
@@ -301,6 +301,11 @@ function createElement(element) {
     geo.classList = "distanceClass";
     textDiv.appendChild(geo);
 
+    // phonenumber
+    let phone = document.createElement("p");
+    phone.innerText = element.restaurant_phone;
+    textDiv.appendChild(phone);
+
     //heart
     let heart = document.createElement("p");
     //heart.innerHTML = '<i class="far fa-heart"></i>';
@@ -373,7 +378,7 @@ function errorMessage() {
     let div = document.createElement("div");
     div.id = "errorDiv"
     let p = document.createElement("p");
-    p.innerText = "Vänligen försök igen. Det fanns inga restauranger med dina önskemål";
+    p.innerText = "* Vänligen försök igen. Det fanns inga restauranger med dina önskemål.";
     div.appendChild(p);
 
     result.appendChild(div);
@@ -413,6 +418,8 @@ function displayResult() {
     
     document.querySelector("form").style.display = "none";
     document.querySelector("nav").style.display = "flex";
+    document.getElementById("result").style.display = "flex";
+
 }
 
 searchBtn.onclick = function() {
@@ -425,7 +432,7 @@ searchBtn.onclick = function() {
     document.querySelector("form").style.display = "block";
     document.querySelector("nav").style.display = "none";
     document.getElementById("favorites").style.display = "none";
-
+    document.getElementById("result").style.display = "none";
 }
 
 favoritesBtn.onclick = function() {
