@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="cssny.css">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -22,33 +22,40 @@
 <body>
     <header id="searchPageHeader">
         <h1>FeedMe</h1>
-        <a href="homePage.html">x</a>
+        <p><i class="far fa-times-circle"></i></p>
+        <nav>
+            <a href="#" id="homeBtn"><i class="fas fa-home"></i></a>
+            <a href="#" id="searchBtn"><i class="fas fa-search"></i></a>
+            <a href="#" id="heartBtn"><i class="far fa-heart"></i></a>
+            <a href="#" id="profileBtn"><i class="fas fa-user-alt"></i></a>
+        </nav>
     </header>
 
     <main id="searchPage">
-        <!-- <select name="city" id="city">
-            <option value="newyork">New York</option>
-            <option value="brooklyn">Brooklyn</option>
-            <option value="lowerManhattan">Lower Manhattan</option>
-            <option value="midtown">Midtown</option>
-
-        </select> -->
 
         <form action="#">
+
             <select name="city" id="city">
-                <option value="newyork">New York</option>
+                <option value="" selected>Chose area of New York</option>
+                <option value="upperEastSide">Upper East Side</option>
                 <option value="brooklyn">Brooklyn</option>
                 <option value="lowerManhattan">Lower Manhattan</option>
                 <option value="midtown">Midtown</option>
+                <option value="upperWestSide">Upper West Side</option>
+                <option value="uptown">Uptown</option>
     
             </select>
-            
 
-            <div>
-                <h4>Latitude</h4>
-                <p id="latitude" contenteditable="true">40.779792</p>
-                <h4>Longitude</h4>
-                <p id="longitude" contenteditable="true">-73.961611</p>
+            <h3 id="locationH3">Your location:</h3>
+            <div id="location">
+                <div>
+                    <p>Latitude</p>
+                    <p id="latitude" contenteditable="true">40.779792</p>
+                </div>
+                <div>
+                    <p>Longitude</p>
+                    <p id="longitude" contenteditable="true">-73.961611</p>
+                </div>
             </div>
 
             <label for="cuisines">What do you crave?</label>
@@ -59,7 +66,7 @@
 
                 <div id="priceRange">
                     <h4>Filter by price (chose one or more)</h4>
-                    <div>
+                    <div id="priceBtns">
                         <span id="priceOne">$</span>
                         <span id="priceTwo">$$</span>
                         <span id="priceThree">$$$</span>
@@ -81,6 +88,11 @@
                     </div>
                 </div>
 
+                <div>
+                    <h4>List all restaurants</h4>
+                    <span id="allRest">All restaurants</span>
+                </div>
+
                 <!-- <div id="distanceBox">
                     <h4>Filter by distance</h4>
                     <div id="distance">
@@ -96,13 +108,14 @@
 
             </div>
             <input id="submitBtn" type="submit" value="Search">
-            
+
         </form>
         <form action="#"></form>
 
-         <!-- <button id="distanceSort">Sort by distance</button>  -->
+        <!-- <button id="distanceSort">Sort by distance</button>  -->
 
         <div id="result"></div>
+        </div>
 
 
     </main>
