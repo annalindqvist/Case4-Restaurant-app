@@ -21,43 +21,52 @@ body {
     background-color: #FAFAFA;
 }
 
-/* ------- Start page ------- */
-
-#startPage main {
-    width: 100vw;
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-#startPage h1 {
-    font-size: 40px;
-    margin-bottom: 70px;
-}
-
-#startPage div {
-    border-radius: 50px;
-    background-color: #E94B64;
-    width: 165px;
-    text-align: center;
-}
-
-#startPage div a {
-    text-decoration: none;
-    font-size: 13px;
-    font-weight: bold;
-    color: #FAFAFA;
-}
-
 header {
     display: flex;
     justify-content: center;
-    margin: 40px;
+    /* display: grid;
+    grid-template-columns: 2fr 1fr; */
+    text-align: right;
+    padding: 10px;
+    margin-top: 30px;
+    position: relative;
 }
 
-h1 {
+header p {
+    color: #333333;
+    text-align: right;
+    position: absolute;
+    right: 40px;
+}
+
+header nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border: none;
+    width: 90vw;
+    height: 40px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #FAFAFA;
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 999;
+
+    background: #FAFAFA;
+    box-shadow: 0px 5px 15px rgba(233, 75, 100, 0.35);
+    border-radius: 15px;
+
+    display: none;
+}
+
+header nav a {
+    color: #E94B64;
+}
+
+header h1 {
     font-style: normal;
     font-weight: bold;
     font-size: 20px;
@@ -66,52 +75,65 @@ h1 {
     color: #E94B64;
 }
 
-header nav {
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    border: none;
-    background: #E94B64;
-    box-shadow: 0px 5px 15px rgba(233, 75, 100, 0.35);
-    border-radius: 15px;
-    width: 90vw;
-    height: 40px;
-    font-size: 18px;
-    font-weight: bold;
-    color: #FAFAFA;
-    position: fixed;
-    bottom: 20px;
-
-    background: #FAFAFA;
-    box-shadow: 0px 5px 15px rgba(233, 75, 100, 0.35);
-    border-radius: 15px;
-
-}
-
-header nav a {
-    color: #E94B64;
-}
-
 main {
-    margin: 15px;
-}
-
-div select {
-    margin-bottom: 10px;
-}
-
-form {
+    width: 100vw;
+    height: 100vh;
     display: flex;
     flex-direction: column;
+    align-items: center;
+    padding: 20px;
 }
 
-form label {
-    color: #333333;
-    font-size: 16px;
+#locationH3 {
+    font-size: 12px;
+    text-align: center;
+    font-weight: 500;
     margin-bottom: 10px;
 }
 
-form input {
+main form #location {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+main form #location .latAndLon {
+    margin-right: 40px;
+    margin-left: 10px;
+}
+
+main form #location p {
+    font-size: 10px;
+    outline: none;
+}
+
+main form select {
+    outline: none;
+    border: none;
+    width: 100%;
+    height: 30px;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 50px;
+    background: #FAFAFA;
+    box-shadow: 0px 5px 15px rgba(233, 75, 100, 0.35);
+    padding: 0 10px;
+    margin-bottom: 20px;
+}
+
+main form h3,
+main form label {
+    font-size: 16px;
+    font-weight: normal;
+    color: #333333;
+}
+
+main form h4 {
+    font-size: 12px;
+    font-weight: bold;
+    color: #333333;
+}
+
+main form input {
     border: none;
     background: #FAFAFA;
     box-shadow: inset 0px 4px 4px 3px rgba(255, 206, 214, 0.2);
@@ -119,16 +141,47 @@ form input {
     width: 90vw;
     height: 35px;
     padding: 10px 20px 10px 20px;
+    margin-bottom: 30px;
+    margin-top: 10px;
 }
 
-form input::placeholder {
+main form input::placeholder {
     font-size: 12px;
     color: #9F9F9F;
     font-weight: lighter;
 
 }
 
-form #submitBtn {
+main form #filterOptions h4 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+main form span {
+    background: #FFCED6;
+    border-radius: 8px;
+    font-size: 12px;
+    padding: 5px 10px;
+    text-align: center;
+    max-width: 79.53px;
+}
+
+#cuisineChoise,
+#priceBtns {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 10px;
+}
+
+.activeBtn,
+#cuisineChoise .activeBtnCuisine,
+.activeDistanceBtn {
+    background-color: #E94B64;
+    color: #FAFAFA;
+    font-weight: bold;
+}
+
+#submitBtn {
     border: none;
     background: #E94B64;
     box-shadow: 0px 5px 15px rgba(233, 75, 100, 0.35);
@@ -140,16 +193,27 @@ form #submitBtn {
     color: #FAFAFA;
     position: fixed;
     bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 #result {
-    margin-top: 20px;
-    margin-bottom: 100px;
-}
-
-#result div {
     display: flex;
     flex-direction: column;
+    /* margin-top: 20px; */
+    height: 100%;
+    width: 100%;
+}
+
+#result h4 {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+#result .restResult {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
     margin-bottom: 20px;
     margin-top: 20px;
     padding: 10px;
@@ -158,118 +222,59 @@ form #submitBtn {
     background: #FAFAFA;
     box-shadow: 0px 4px 4px 2px rgba(255, 206, 214, 0.2);
     border-radius: 20px;
-
-    
-    
 }
 
-#result div h4{
-    font-size: 14px;
-    font-weight: bold;
-    font-style: normal;
-    margin-left: 30%;
-    position: relative; /* gör så att h4 ligger på sökknappen.. */ 
-}
-
-#result div p {
-    font-size: 10px;
-    font-weight: normal;
-    margin-left: 30%;
-}
-
-#result div .distanceClass {
-    font-size: 12px;
-    font-weight: bold;
-    color: #E94B64;
-    position: absolute;
-    right: 80px;
-    
-}
-
-#result div a {
-    margin-top: 20px;
-}
-
-div h4 {
-    font-size: 12px;
-}
-
-div p {
-    font-size: 11px;
-    font-weight: normal;
-}
-
-#filterOptions h3 {
-    margin-top: 30px;
-    color: #333333;
-    font-size: 16px;
-    margin-bottom: 10px;
-    font-weight: normal;
-}
-
-#priceRange {
-    margin: 20px 0px;
-}
-
-#priceRange div {
+.restResult .textDiv div {
     display: flex;
 }
 
-#priceRange button {
-    padding: 5px;
-    margin: 5px 10px;
-}
-
-/* active button*/
-
-.activeBtn,
-.activeBtnCuisine,
-.activeDistanceBtn {
-    background-color: #E94B64;
-}
-
-
-#searchInputBtn {
-    border: none;
-    background: #FAFAFA;
-    box-shadow: inset 0px 4px 4px 3px rgba(255, 206, 214, 0.2);
-    border-radius: 50px;
-    width: 90vw;
-    height: 35px;
-    padding: 10px 20px 10px 20px;
-
-    text-decoration: none;
+.restResult .textDiv p {
+    word-break: break-all;
     font-size: 12px;
-    text-align: left;
-    color: #9F9F9F;
-    font-weight: lighter;
 
 }
 
-/* ------- SEARCH PAGE --------- */
-
-#searchPageHeader {
-    position: relative;
+.restResult .textDiv a {
+    text-decoration: none;
+    color: #E94B64;
+    font-size: 12px;
 }
 
-#searchPageHeader a {
+.restResult .textDiv div .dollarColor {
+    color: #E94B64;
+    font-weight: 500;
+    padding-right: 4px;
+}
 
+
+#result div img {
+    width: 90px;
+    height: 90px;
+    object-fit: cover;
+    object-position: 50% 50%;
+    border-radius: 15px;
+}
+
+
+div .heartBtn {
     position: absolute;
-    left: 10px;
-    color: black;
-
-}
-
-#favoritesPage h4 {
-    color: #333333;
-    font-weight: normal;
-    font-size: 16px;
-}
-
-.heartBtn {
+    right: 20px;
+    bottom: 10px;
     color: #E94B64;
 }
 
 .fa-heart {
     pointer-events: none;
+}
+
+main #favorites {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+
+    display: none;
+}
+main #favorites h4 {
+    font-weight: normal;
 }
