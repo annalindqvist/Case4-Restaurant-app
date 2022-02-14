@@ -77,7 +77,7 @@ selectCity.onchange = () => {
     }).catch(function (error) {
 
         //call a function that prints error nicely
-        console.log(error);
+        alert(error);
 
     })
 };
