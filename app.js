@@ -1,14 +1,4 @@
-// har hämtar information från API:et om New York
-// med denna länk: "https://api.documenu.com/v2/restaurants/state/NY?key=e85086501af955112390f6a87d0cb5c2";
-
-// json filen
-//const url = "jsonFiles/NY100.json"
-
-let url; //= "jsonFiles/NY100.json";
-
-//url = "jsonFiles/brooklyn.json"
-//url = "jsonFiles/lowerManhattan.json"
-//url = "jsonFiles/midtown.json";
+let url; 
 
 let inputBox = document.getElementById("input");
 const selectCity = document.getElementById("city");
@@ -51,24 +41,21 @@ selectCity.onchange = () => {
 
     if (selectCity.value === "brooklyn") {
         url = "jsonFiles/brooklyn.json";
-        
+
     } else if (selectCity.value === "lowerManhattan") {
         url = "jsonFiles/lowerManhattan.json";
-        
+
     } else if (selectCity.value === "midtown") {
         url = "jsonFiles/midtown.json";
-    }
-    else if (selectCity.value === "upperEastSide") {
+    } else if (selectCity.value === "upperEastSide") {
         url = "jsonFiles/upperEastSide.json";
-        
-    }
-    else if (selectCity.value === "upperWestSide") {
+
+    } else if (selectCity.value === "upperWestSide") {
         url = "jsonFiles/upperWestSide.json";
-        
-    }
-    else if (selectCity.value === "uptown") {
+
+    } else if (selectCity.value === "uptown") {
         url = "jsonFiles/uptown.json";
-        
+
     }
 
     // URL direct to API - both works perfectly
@@ -80,19 +67,22 @@ selectCity.onchange = () => {
         if (!response.ok) {
             throw Error("Error!");
         }
-    
+
         return response.json();
-    
+
     }).then(function (data) {
-    
+
         restaurantData = data.data;
-    
+
     }).catch(function (error) {
 
+        //call a function that prints error nicely
         console.log(error);
 
     })
 };
+
+// Filtering result on submit
 
 submitBtn.addEventListener("click", function (e) {
 
@@ -105,7 +95,7 @@ submitBtn.addEventListener("click", function (e) {
 
     cuisinecheck();
     checkInput();
- 
+
     if (cuisineFilteredList.length >= 1) {
         cuisineFilteredList.map((restaurant) => {
 
@@ -113,7 +103,7 @@ submitBtn.addEventListener("click", function (e) {
 
         });
         displayResult()
-        
+
     } else if (inputSearch.length >= 1) {
         inputSearch.map((restaurant) => {
 
@@ -124,10 +114,12 @@ submitBtn.addEventListener("click", function (e) {
 
     } else {
         errorMessage();
-        
+
     }
     document.querySelector("form").reset();
 })
+
+// checking what $-btns that are "active"
 
 function priceCheck() {
 
@@ -171,6 +163,8 @@ function priceCheck() {
     return searchResult;
 }
 
+// if any $-btn is "active" - then filter by cuisine
+
 function cuisinecheck() {
 
     priceCheck()
@@ -194,11 +188,13 @@ function cuisinecheck() {
     return cuisineFilteredList;
 }
 
+// if anthing is writen in inputbox then filter by restaurant name and cuisine
+// couldn't get toLowerCase on cuisine to work.. 
+
 function checkInput() {
 
     if (inputBox.value.length > 1) {
 
-        // få till toLowerCase() på cuisin
         let cuisineSearch = restaurantData.filter((restaurant) => {
             return restaurant.cuisines.find(cuisine => cuisine.includes(inputBox.value));
         });
@@ -243,8 +239,9 @@ cuisineChoise.addEventListener("click", function (e) {
 
 })
 
+// All restaurants btn - shows all restaurants in chosen area of New York
 
-allRest.onclick = function (){
+allRest.onclick = function () {
 
     result.innerHTML = "";
     searchResult = [];
@@ -259,6 +256,8 @@ allRest.onclick = function (){
 
     displayResult()
 }
+
+// Creating all elements containing information about the restaurants
 
 function createElement(element) {
 
@@ -295,7 +294,7 @@ function createElement(element) {
 
     textDiv.appendChild(priceAndCuisine);
 
-    // geo.. long & lat
+    // lon & lat
     let geo = document.createElement("p");
     geo.innerText = calcCrow(element.geo.lat, element.geo.lon, latitudeInput.innerText, longitudeInput.innerText);
     geo.classList = "distanceClass";
@@ -308,7 +307,6 @@ function createElement(element) {
 
     //heart
     let heart = document.createElement("p");
-    //heart.innerHTML = '<i class="far fa-heart"></i>';
     heart.innerHTML = '<i class="far fa-heart"></i>';
     heart.classList = "heartBtn";
     heart.id = "heart";
@@ -329,6 +327,9 @@ function createElement(element) {
     return geo.innerText;
 
 }
+
+
+// random img function
 
 function getImg() {
 
@@ -373,6 +374,8 @@ function getImg() {
 
 }
 
+// Errormessage when no restaurant was found
+
 function errorMessage() {
 
     let div = document.createElement("div");
@@ -405,24 +408,25 @@ function toRadius(Value) {
     return Value * Math.PI / 180;
 }
 
-// heartBtn fill or un-fill
+// HeartBtn fill or un-fill
 result.onclick = function (e) {
     e.preventDefault();
-    console.log(e.target)
     if (e.target.className === "heartBtn") {
         e.target.firstElementChild.classList.toggle("fas");
     }
 };
 
+// functions that show/hide "pages"
+
 function displayResult() {
-    
+
     document.querySelector("form").style.display = "none";
     document.querySelector("nav").style.display = "flex";
     document.getElementById("result").style.display = "flex";
 
 }
 
-searchBtn.onclick = function() {
+searchBtn.onclick = function () {
 
     result.innerHTML = "";
     searchResult = [];
@@ -435,7 +439,7 @@ searchBtn.onclick = function() {
     document.getElementById("result").style.display = "none";
 }
 
-favoritesBtn.onclick = function() {
+favoritesBtn.onclick = function () {
 
     result.innerHTML = "";
     searchResult = [];
