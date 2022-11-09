@@ -202,7 +202,6 @@ function checkInput() {
         let nameSearch = restaurantData.filter((restaurant) => {
             return restaurant.restaurant_name.toLowerCase().includes(inputBox.value.toLowerCase());
         });
-        console.log(nameSearch);
 
         inputSearch = [...inputSearch, ...cuisineSearch, ...nameSearch];
     }
